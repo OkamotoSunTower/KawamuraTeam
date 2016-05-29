@@ -7,7 +7,7 @@ public class ObjControl : MonoBehaviour
 	// MoveSpeed設定ミスがあった場合に設定される値.
 	const float AUTO_SPEED = 0.1f;
 
-	// 
+	// 自動回転時の回転速度.
 	const float AUTO_ROTATION_SPEED = 0.01f;
 
 	// オブジェクトの移動量.
