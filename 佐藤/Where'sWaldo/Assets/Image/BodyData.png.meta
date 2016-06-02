@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 308ebe3f3258fba498efb9019dace7cd
+timeCreated: 1464874662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BodyData_0
+    21300002: BodyData_1
+    21300004: BodyData_2
+    21300006: BodyData_3
+    21300008: BodyData_4
+    21300010: BodyData_5
+    21300012: BodyData_6
+    21300014: BodyData_7
+    21300016: BodyData_8
+    21300018: BodyData_9
+    21300020: BodyData_10
+    21300022: BodyData_11
+    21300024: BodyData_12
+    21300026: BodyData_13
+    21300028: BodyData_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BodyData_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 417
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 421
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 419
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 423
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 424
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 220
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 224
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 222
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 226
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 227
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 39
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 41
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 45
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    - name: BodyData_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 46
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 54, y: -36.5}
+        - {x: 28, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: -21, y: 78.5}
+        - {x: -54, y: -55.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
