@@ -20,8 +20,12 @@ public class CreateHuman : MonoBehaviour
 
 	// 生成した人の数.
 	static int Count;
-	// 生成した人の座標データ格納().
+	// 生成した人の座標データ格納.
 	static Vector3[] PosRecord;
+	// 正解顔データ.
+	static int AnswerFaceData;
+	// 正解体データ.
+	static int AnswerBodyData;
 
 	SpriteRenderer FaceRenderer;
 	SpriteRenderer BodyRenderer;
@@ -97,31 +101,45 @@ public class CreateHuman : MonoBehaviour
 			}
 
 		} while (!isPosOK);
-		
+
 		// 苦肉の策.
 		if (Count < HUMAN_MAX)
 			PosRecord[Count] = pos;
 
 		FaceRenderer = gameObject.GetComponent<SpriteRenderer>();
+		int FaceSpriteNum = Random.Range(0, FaceSprite.Length);
 
-		FaceRenderer.sprite = FaceSprite[Random.Range(0, FaceSprite.Length)];
+		if (Count == 1)
+			AnswerFaceData = FaceSpriteNum;
 		FaceRenderer.transform.localPosition = pos;
 		FaceRenderer.sortingOrder = 1;
 
 		Vector3 BodyPos = FaceRenderer.transform.localPosition;
 		BodyPos.y -= BODY_Y_REVISE;
+
 		foreach (Transform child in transform)
-		{
 			BodyRenderer = child.GetComponent<SpriteRenderer>();
-			BodyRenderer.sprite = BodySprite[Random.Range(0, BodySprite.Length)];
-			BodyRenderer.transform.position = BodyPos;
+
+		int BodySpriteNum = Random.Range(0, BodySprite.Length);
+
+		if (Count > 0)
+		{
+			while (AnswerBodyData == BodySpriteNum && AnswerFaceData == FaceSpriteNum)
+			{
+				BodySpriteNum = Random.Range(0, BodySprite.Length);
+				BodySpriteNum = Random.Range(0, BodySprite.Length);
+			}
 		}
-	}
+		else
+		{
+			AnswerBodyData = BodySpriteNum;
+			Debug.Log("正解顔データ番号 : " + AnswerFaceData);
+			Debug.Log("正解体データ番号 : " + AnswerBodyData);
+		}
 
-	// Update is called once per frame
-	void Update()
-	{
-
+		BodyRenderer.sprite = BodySprite[BodySpriteNum];
+		FaceRenderer.sprite = FaceSprite[FaceSpriteNum];
+		BodyRenderer.transform.position = BodyPos;
 	}
 
 	void SizeDecide(ref ScreenSize size)
@@ -159,8 +177,6 @@ public class CreateHuman : MonoBehaviour
 
 //==================================================================
 //=================================TODO=============================
-//
-//	正解の組み合わせは一体しか生成しない.
 //	正解判定.
 //	作らないと.
 //==================================================================
