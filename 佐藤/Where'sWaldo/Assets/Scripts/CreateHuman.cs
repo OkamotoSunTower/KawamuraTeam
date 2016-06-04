@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
+using UnityEngine.EventSystems;
 using System.Collections;
 
-public class CreateHuman : MonoBehaviour
+
+public class CreateHuman : MonoBehaviour, IPointerClickHandler
 {
 	[SerializeField]
 	Sprite[] FaceSprite;
@@ -186,10 +188,15 @@ public class CreateHuman : MonoBehaviour
 		bottomRight.Scale(new Vector3(1f, -1f, 1f));
 		return bottomRight;
 	}
-}
 
-//==================================================================
-//=================================TODO=============================
-//	正解判定.
-//	作らないと.
-//==================================================================
+	public void OnPointerClick(PointerEventData eventData)
+	{
+		if (eventData.clickCount == 1)
+		{
+			if (this.transform.localPosition == PosRecord[0])
+				Debug.Log("正解");
+			else
+				Debug.Log("不正解");
+		}
+	}
+}
