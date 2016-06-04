@@ -45,8 +45,8 @@ public class CreateHuman : MonoBehaviour
 	{
 		if (HUMAN_MAX > 100)
 		{
-			Debug.LogError("その数は表示できない");
-			return;
+			Debug.LogError("そんなに多く表示できません");
+			Debug.Break();
 		}
 		Count = 0;
 		PosRecord = new Vector3[HUMAN_MAX];
@@ -61,8 +61,6 @@ public class CreateHuman : MonoBehaviour
 		{
 			// オブジェクト複製.
 			GameObject obj = Instantiate(gameObject);
-			// 強制的に(Clone)を付けないように.
-			obj.name = gameObject.name;
 		}
 		else
 			return;
@@ -103,13 +101,13 @@ public class CreateHuman : MonoBehaviour
 		} while (!isPosOK);
 
 		// 苦肉の策.
-		if (Count < HUMAN_MAX)
+		if (Count < HUMAN_MAX && this.name != "AnswerFace(Clone)")
 			PosRecord[Count] = pos;
 
 		FaceRenderer = gameObject.GetComponent<SpriteRenderer>();
 		int FaceSpriteNum = Random.Range(0, FaceSprite.Length);
 
-		if (Count == 1)
+		if (this.name == "AnswerFace")
 			AnswerFaceData = FaceSpriteNum;
 		FaceRenderer.transform.localPosition = pos;
 		FaceRenderer.sortingOrder = 1;
@@ -122,12 +120,20 @@ public class CreateHuman : MonoBehaviour
 
 		int BodySpriteNum = Random.Range(0, BodySprite.Length);
 
-		if (Count > 0)
+		if (this.name != "AnswerFace")
 		{
-			while (AnswerBodyData == BodySpriteNum && AnswerFaceData == FaceSpriteNum)
+			if (this.name == "AnswerFace(Clone)")
 			{
-				BodySpriteNum = Random.Range(0, BodySprite.Length);
-				BodySpriteNum = Random.Range(0, BodySprite.Length);
+				FaceSpriteNum = AnswerFaceData;
+				BodySpriteNum = AnswerBodyData;
+			}
+			else
+			{
+				while (AnswerBodyData == BodySpriteNum && AnswerFaceData == FaceSpriteNum)
+				{
+					BodySpriteNum = Random.Range(0, BodySprite.Length);
+					BodySpriteNum = Random.Range(0, BodySprite.Length);
+				}
 			}
 		}
 		else
@@ -135,11 +141,18 @@ public class CreateHuman : MonoBehaviour
 			AnswerBodyData = BodySpriteNum;
 			Debug.Log("正解顔データ番号 : " + AnswerFaceData);
 			Debug.Log("正解体データ番号 : " + AnswerBodyData);
+
+			GameObject AnswerObj = Instantiate(gameObject);
+			AnswerObj.name = "AnswerObj";
+			AnswerObj.transform.localPosition = new Vector3(100, 0, 0);
 		}
 
 		BodyRenderer.sprite = BodySprite[BodySpriteNum];
 		FaceRenderer.sprite = FaceSprite[FaceSpriteNum];
 		BodyRenderer.transform.position = BodyPos;
+
+		// 強制的に(Clone)を付けないように.
+		this.name = "Face";
 	}
 
 	void SizeDecide(ref ScreenSize size)
