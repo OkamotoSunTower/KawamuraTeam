@@ -3,7 +3,6 @@ using System.Collections;
 
 public class CreateHuman : MonoBehaviour
 {
-
 	[SerializeField]
 	Sprite[] FaceSprite;
 
@@ -13,9 +12,16 @@ public class CreateHuman : MonoBehaviour
 	// 顔に対しての体の座標補正値(Y座標のみ).
 	const int BODY_Y_REVISE = 1;
 	// 生成する人の最大数.
-	const int HUMAN_MAX = 20;
-	// 画面領域に収まる補正値.
+	const int HUMAN_MAX = 100;
+	// 画面領域に収まる補正値(人同士の最低X距離).
 	const float SCREEN_POS_REVISE = 1.5f;
+	// 人同士の最低Y距離.
+	const float HUMAN_POS_Y_REVISE = 2.3f;
+
+	// 生成した人の数.
+	static int Count;
+	// 生成した人の座標データ格納().
+	static Vector3[] PosRecord;
 
 	SpriteRenderer FaceRenderer;
 	SpriteRenderer BodyRenderer;
@@ -31,11 +37,23 @@ public class CreateHuman : MonoBehaviour
 
 	ScreenSize Size;
 
+	static CreateHuman()
+	{
+		if (HUMAN_MAX > 100)
+		{
+			Debug.LogError("その数は表示できない");
+			return;
+		}
+		Count = 0;
+		PosRecord = new Vector3[HUMAN_MAX];
+		for (int i = 0; i < HUMAN_MAX; i++)
+			PosRecord[i] = new Vector3(float.MaxValue, float.MaxValue, 0);
+	}
+
 	void Start()
 	{
-		// Targetタグついてるオブジェクトの数取得.
-		GameObject[] Target = GameObject.FindGameObjectsWithTag("Target");
-		if (Target.Length < HUMAN_MAX)
+		Count++;
+		if (Count < HUMAN_MAX)
 		{
 			// オブジェクト複製.
 			GameObject obj = Instantiate(gameObject);
@@ -58,6 +76,31 @@ public class CreateHuman : MonoBehaviour
 		pos.x = Random.Range(Size.Left + SCREEN_POS_REVISE, Size.Right - SCREEN_POS_REVISE);
 		pos.y = Random.Range(Size.Bottom + SCREEN_POS_REVISE + BODY_Y_REVISE, Size.Top - SCREEN_POS_REVISE);
 		pos.z = 0;
+
+		bool isPosOK;
+		// 処理重い.
+		do
+		{
+			isPosOK = true;
+			for (int i = 0; i < Count; i++)
+			{
+				float Y = System.Math.Abs(pos.y - PosRecord[i].y);
+				float X = System.Math.Abs(pos.x - PosRecord[i].x);
+
+				if (Y < HUMAN_POS_Y_REVISE && X < SCREEN_POS_REVISE)
+				{
+					pos.y = Random.Range(Size.Bottom + SCREEN_POS_REVISE + BODY_Y_REVISE, Size.Top - SCREEN_POS_REVISE);
+					pos.x = Random.Range(Size.Left + SCREEN_POS_REVISE, Size.Right - SCREEN_POS_REVISE);
+					isPosOK = false;
+					break;
+				}
+			}
+
+		} while (!isPosOK);
+		
+		// 苦肉の策.
+		if (Count < HUMAN_MAX)
+			PosRecord[Count] = pos;
 
 		FaceRenderer = gameObject.GetComponent<SpriteRenderer>();
 
@@ -89,11 +132,10 @@ public class CreateHuman : MonoBehaviour
 		size.Left = TopLeft.x;
 		size.Bottom = BottomRight.y;
 		size.Top = TopLeft.y;
-		Debug.Log("Right  : " + size.Right);
-		Debug.Log("Left   : " + size.Left);
-		Debug.Log("Bottom : " + size.Bottom);
-		Debug.Log("Top    : " + size.Top);
-
+		//Debug.Log("Right  : " + size.Right);
+		//Debug.Log("Left   : " + size.Left);
+		//Debug.Log("Bottom : " + size.Bottom);
+		//Debug.Log("Top    : " + size.Top);
 	}
 
 	Vector3 GetScreenTopAndLeft()
@@ -118,7 +160,6 @@ public class CreateHuman : MonoBehaviour
 //==================================================================
 //=================================TODO=============================
 //
-//	生成時に重ならないようにする仕組み.座標指定をStart内の複製後のタイミングに変更すれば対応できそう.
 //	正解の組み合わせは一体しか生成しない.
 //	正解判定.
 //	作らないと.
