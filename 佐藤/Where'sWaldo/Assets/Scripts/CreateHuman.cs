@@ -11,6 +11,7 @@ public class CreateHuman : MonoBehaviour, IPointerClickHandler
 	[SerializeField]
 	Sprite[] BodySprite;
 
+	//定数系動的に決めたほうがいいよね.
 	// 顔に対しての体の座標補正値(Y座標のみ).
 	const int BODY_Y_REVISE = 1;
 	// 生成する人の最大数.
@@ -112,6 +113,7 @@ public class CreateHuman : MonoBehaviour, IPointerClickHandler
 		if (this.name == "AnswerFace")
 			AnswerFaceData = FaceSpriteNum;
 		FaceRenderer.transform.localPosition = pos;
+		FaceRenderer.transform.localScale = new Vector3(2, 2, 1);
 		FaceRenderer.sortingOrder = 1;
 
 		Vector3 BodyPos = FaceRenderer.transform.localPosition;
@@ -141,8 +143,8 @@ public class CreateHuman : MonoBehaviour, IPointerClickHandler
 		else
 		{
 			AnswerBodyData = BodySpriteNum;
-			Debug.Log("正解顔データ番号 : " + AnswerFaceData);
-			Debug.Log("正解体データ番号 : " + AnswerBodyData);
+			//Debug.Log("正解顔データ番号 : " + AnswerFaceData);
+			//Debug.Log("正解体データ番号 : " + AnswerBodyData);
 
 			GameObject AnswerObj = Instantiate(gameObject);
 			AnswerObj.name = "AnswerObj";

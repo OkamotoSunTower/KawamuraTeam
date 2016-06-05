@@ -1,0 +1,2570 @@
+fileFormatVersion: 2
+guid: 659956165ada3b34f99477ba2d078298
+timeCreated: 1465095544
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Face_0
+    21300002: Face_1
+    21300004: Face_2
+    21300006: Face_3
+    21300008: Face_4
+    21300010: Face_5
+    21300012: Face_6
+    21300014: Face_7
+    21300016: Face_8
+    21300018: Face_9
+    21300020: Face_10
+    21300022: Face_11
+    21300024: Face_12
+    21300026: Face_13
+    21300028: Face_14
+    21300030: Face_15
+    21300032: Face_16
+    21300034: Face_17
+    21300036: Face_18
+    21300038: Face_19
+    21300040: Face_20
+    21300042: Face_21
+    21300044: Face_22
+    21300046: Face_23
+    21300048: Face_24
+    21300050: Face_25
+    21300052: Face_26
+    21300054: Face_27
+    21300056: Face_28
+    21300058: Face_29
+    21300060: Face_30
+    21300062: Face_31
+    21300064: Face_32
+    21300066: Face_33
+    21300068: Face_34
+    21300070: Face_35
+    21300072: Face_36
+    21300074: Face_37
+    21300076: Face_38
+    21300078: Face_39
+    21300080: Face_40
+    21300082: Face_41
+    21300084: Face_42
+    21300086: Face_43
+    21300088: Face_44
+    21300090: Face_45
+    21300092: Face_46
+    21300094: Face_47
+    21300096: Face_48
+    21300098: Face_49
+    21300100: Face_50
+    21300102: Face_51
+    21300104: Face_52
+    21300106: Face_53
+    21300108: Face_54
+    21300110: Face_55
+    21300112: Face_56
+    21300114: Face_57
+    21300116: Face_58
+    21300118: Face_59
+    21300120: Face_60
+    21300122: Face_61
+    21300124: Face_62
+    21300126: Face_63
+    21300128: Face_64
+    21300130: Face_65
+    21300132: Face_66
+    21300134: Face_67
+    21300136: Face_68
+    21300138: Face_69
+    21300140: Face_70
+    21300142: Face_71
+    21300144: Face_72
+    21300146: Face_73
+    21300148: Face_74
+    21300150: Face_75
+    21300152: Face_76
+    21300154: Face_77
+    21300156: Face_78
+    21300158: Face_79
+    21300160: Face_80
+    21300162: Face_81
+    21300164: Face_82
+    21300166: Face_83
+    21300168: Face_84
+    21300170: Face_85
+    21300172: Face_86
+    21300174: Face_87
+    21300176: Face_88
+    21300178: Face_89
+    21300180: Face_90
+    21300182: Face_91
+    21300184: Face_92
+    21300186: Face_93
+    21300188: Face_94
+    21300190: Face_95
+    21300192: Face_96
+    21300194: Face_97
+    21300196: Face_98
+    21300198: Face_99
+    21300200: Face_100
+    21300202: Face_101
+    21300204: Face_102
+    21300206: Face_103
+    21300208: Face_104
+    21300210: Face_105
+    21300212: Face_106
+    21300214: Face_107
+    21300216: Face_108
+    21300218: Face_109
+    21300220: Face_110
+    21300222: Face_111
+    21300224: Face_112
+    21300226: Face_113
+    21300228: Face_114
+    21300230: Face_115
+    21300232: Face_116
+    21300234: Face_117
+    21300236: Face_118
+    21300238: Face_119
+    21300240: Face_120
+    21300242: Face_121
+    21300244: Face_122
+    21300246: Face_123
+    21300248: Face_124
+    21300250: Face_125
+    21300252: Face_126
+    21300254: Face_127
+    21300256: Face_128
+    21300258: Face_129
+    21300260: Face_130
+    21300262: Face_131
+    21300264: Face_132
+    21300266: Face_133
+    21300268: Face_134
+    21300270: Face_135
+    21300272: Face_136
+    21300274: Face_137
+    21300276: Face_138
+    21300278: Face_139
+    21300280: Face_140
+    21300282: Face_141
+    21300284: Face_142
+    21300286: Face_143
+    21300288: Face_144
+    21300290: Face_145
+    21300292: Face_146
+    21300294: Face_147
+    21300296: Face_148
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Face_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 826
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -1}
+        - {x: 3.5, y: -14}
+        - {x: 3.5, y: -34}
+        - {x: 7.5, y: -36}
+        - {x: 31.5, y: -36}
+        - {x: 33.5, y: -27}
+        - {x: 33.5, y: -1}
+      - - {x: -31.5, y: 36}
+        - {x: -34.5, y: 25}
+        - {x: -34.5, y: -29}
+        - {x: 9.5, y: -29}
+        - {x: 21.5, y: -4}
+        - {x: 21.5, y: 31}
+        - {x: 14.5, y: 36}
+    - name: Face_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 831
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 32}
+        - {x: -30, y: 27}
+        - {x: -30, y: -32}
+        - {x: 16, y: -32}
+        - {x: 26, y: -11}
+        - {x: 30, y: 10}
+        - {x: 30, y: 32}
+    - name: Face_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 834
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 29.5}
+        - {x: -34, y: 16.5}
+        - {x: -34, y: -13.5}
+        - {x: -27, y: -29.5}
+        - {x: 18, y: -29.5}
+        - {x: 34, y: -23.5}
+        - {x: 34, y: 21.5}
+        - {x: 23, y: 29.5}
+    - name: Face_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 827
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -12.5}
+        - {x: -34.5, y: -14.5}
+        - {x: -34.5, y: -21.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -26.5, y: -35.5}
+        - {x: -7.5, y: -35.5}
+        - {x: -7.5, y: -23.5}
+        - {x: -17.5, y: -12.5}
+      - - {x: 20.5, y: 35.5}
+        - {x: -20.5, y: 35.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -14.5, y: -19.5}
+        - {x: 12.5, y: -19.5}
+        - {x: 31.5, y: -14.5}
+        - {x: 35.5, y: -9.5}
+        - {x: 35.5, y: 17.5}
+        - {x: 33.5, y: 26.5}
+    - name: Face_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 834
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 29.5}
+        - {x: -21, y: 29.5}
+        - {x: -38, y: 7.5}
+        - {x: -38, y: -21.5}
+        - {x: -37, y: -21.5}
+        - {x: -21, y: -29.5}
+        - {x: 35, y: -29.5}
+        - {x: 38, y: -21.5}
+        - {x: 38, y: 2.5}
+        - {x: 29, y: 22.5}
+    - name: Face_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 836
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 27}
+        - {x: -22.5, y: -22}
+        - {x: -21.5, y: -27}
+        - {x: 17.5, y: -27}
+        - {x: 22.5, y: -25}
+        - {x: 22.5, y: 27}
+    - name: Face_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 829
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 34.5}
+        - {x: -12, y: 34.5}
+        - {x: -21, y: 19.5}
+        - {x: -21, y: -31.5}
+        - {x: -19, y: -34.5}
+        - {x: 19, y: -34.5}
+        - {x: 21, y: -27.5}
+        - {x: 21, y: 30.5}
+        - {x: 19, y: 33.5}
+    - name: Face_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 835
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 28}
+        - {x: -22, y: 20}
+        - {x: -22, y: -22}
+        - {x: -20, y: -28}
+        - {x: 7, y: -28}
+        - {x: 22, y: -14}
+        - {x: 22, y: 19}
+        - {x: 9, y: 28}
+    - name: Face_10
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 833
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 30}
+        - {x: -4.5, y: 30}
+        - {x: -22.5, y: 20}
+        - {x: -22.5, y: -24}
+        - {x: -5.5, y: -30}
+        - {x: 19.5, y: -30}
+        - {x: 22.5, y: -25}
+        - {x: 22.5, y: 13}
+    - name: Face_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 831
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19.5}
+        - {x: -23, y: -13.5}
+        - {x: -6, y: -32.5}
+        - {x: 12, y: -32.5}
+        - {x: 23, y: -24.5}
+        - {x: 23, y: 29.5}
+        - {x: 19, y: 32.5}
+        - {x: -2, y: 32.5}
+        - {x: -17, y: 29.5}
+    - name: Face_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 749
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -4}
+        - {x: -33, y: -7}
+        - {x: -33, y: -37}
+        - {x: -31, y: -38}
+        - {x: -10, y: -38}
+        - {x: -10, y: -11}
+        - {x: -11, y: -6}
+        - {x: -17, y: -4}
+      - - {x: -3, y: 38}
+        - {x: -20, y: 28}
+        - {x: -20, y: -13}
+        - {x: -15, y: -26}
+        - {x: 12, y: -26}
+        - {x: 33, y: -18}
+        - {x: 33, y: 38}
+    - name: Face_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 762
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 27}
+        - {x: -36.5, y: 2}
+        - {x: -41.5, y: -7}
+        - {x: -41.5, y: -17}
+        - {x: -29.5, y: -27}
+        - {x: 41.5, y: -27}
+        - {x: 41.5, y: 2}
+        - {x: 23.5, y: 27}
+    - name: Face_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 762
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 26.5}
+        - {x: -32, y: 17.5}
+        - {x: -32, y: -23.5}
+        - {x: -28, y: -26.5}
+        - {x: 23, y: -26.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 21.5}
+        - {x: 22, y: 26.5}
+    - name: Face_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 761
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 11.5}
+        - {x: 40, y: 27.5}
+        - {x: -3, y: 27.5}
+        - {x: -33, y: 23.5}
+        - {x: -40, y: 20.5}
+        - {x: -40, y: -4.5}
+        - {x: -37, y: -18.5}
+        - {x: -24, y: -27.5}
+        - {x: -2, y: -27.5}
+        - {x: 0, y: -26.5}
+        - {x: 7, y: -19.5}
+        - {x: 35, y: 3.5}
+    - name: Face_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 765
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -10}
+        - {x: -31.5, y: -13}
+        - {x: -21.5, y: -23}
+        - {x: 11.5, y: -23}
+        - {x: 32.5, y: -11}
+        - {x: 32.5, y: 23}
+        - {x: -25.5, y: 23}
+        - {x: -32.5, y: 22}
+    - name: Face_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 755
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 33}
+        - {x: -28.5, y: -6}
+        - {x: -28.5, y: -32}
+        - {x: 7.5, y: -32}
+        - {x: 28.5, y: -15}
+        - {x: 28.5, y: 32}
+        - {x: 26.5, y: 33}
+    - name: Face_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 759
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 29}
+        - {x: -27.5, y: 28}
+        - {x: -33.5, y: 1}
+        - {x: -33.5, y: -26}
+        - {x: -28.5, y: -29}
+        - {x: 30.5, y: -29}
+        - {x: 33.5, y: -28}
+        - {x: 33.5, y: 13}
+        - {x: 23.5, y: 29}
+    - name: Face_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 757
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 31}
+        - {x: -25.5, y: 21}
+        - {x: -25.5, y: -13}
+        - {x: -12.5, y: -31}
+        - {x: 15.5, y: -31}
+        - {x: 25.5, y: -20}
+        - {x: 25.5, y: 26}
+        - {x: 24.5, y: 31}
+    - name: Face_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 761
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 27.5}
+        - {x: -25.5, y: 26.5}
+        - {x: -25.5, y: -22.5}
+        - {x: -11.5, y: -27.5}
+        - {x: 21.5, y: -27.5}
+        - {x: 25.5, y: -19.5}
+        - {x: 25.5, y: 26.5}
+        - {x: 19.5, y: 27.5}
+    - name: Face_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 760
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28.5}
+        - {x: -26, y: 17.5}
+        - {x: -26, y: -28.5}
+        - {x: 11, y: -28.5}
+        - {x: 26, y: -20.5}
+        - {x: 26, y: 28.5}
+    - name: Face_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 679
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 31.5}
+        - {x: -34, y: -4.5}
+        - {x: -20, y: -31.5}
+        - {x: 6, y: -31.5}
+        - {x: 34, y: -9.5}
+        - {x: 34, y: 25.5}
+        - {x: 19, y: 31.5}
+    - name: Face_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 680
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 30.5}
+        - {x: -23.5, y: 28.5}
+        - {x: -23.5, y: -8.5}
+        - {x: -17.5, y: -30.5}
+        - {x: 15.5, y: -30.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 23.5, y: 27.5}
+        - {x: 19.5, y: 30.5}
+    - name: Face_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 681
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 29.5}
+        - {x: -26, y: -17.5}
+        - {x: -7, y: -29.5}
+        - {x: 26, y: -29.5}
+        - {x: 26, y: 14.5}
+        - {x: 12, y: 29.5}
+    - name: Face_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 680
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31}
+        - {x: -30, y: 27}
+        - {x: -30, y: -22}
+        - {x: -18, y: -31}
+        - {x: 11, y: -31}
+        - {x: 30, y: -18}
+        - {x: 30, y: 20}
+        - {x: 20, y: 31}
+    - name: Face_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 682
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 28.5}
+        - {x: -28, y: 25.5}
+        - {x: -28, y: -18.5}
+        - {x: -11, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 20, y: -27.5}
+        - {x: 28, y: -7.5}
+        - {x: 28, y: 28.5}
+    - name: Face_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 685
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -21}
+        - {x: -22, y: -26}
+        - {x: 19, y: -26}
+        - {x: 24, y: -24}
+        - {x: 24, y: 22}
+        - {x: 22, y: 26}
+        - {x: -15, y: 26}
+        - {x: -24, y: 17}
+    - name: Face_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 684
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -24.5}
+        - {x: -19, y: -26.5}
+        - {x: 15, y: -26.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 20.5}
+        - {x: 19, y: 26.5}
+    - name: Face_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 683
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 28}
+        - {x: -39.5, y: 28}
+        - {x: -40.5, y: 27}
+        - {x: -40.5, y: -17}
+        - {x: -35.5, y: -28}
+        - {x: 36.5, y: -28}
+        - {x: 40.5, y: -21}
+        - {x: 40.5, y: -1}
+        - {x: 38.5, y: 9}
+    - name: Face_34
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 687
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -25, y: 22.5}
+        - {x: -25, y: -15.5}
+        - {x: -16, y: -28.5}
+        - {x: -3, y: -30.5}
+        - {x: 21, y: -30.5}
+        - {x: 25, y: -28.5}
+        - {x: 25, y: 16.5}
+        - {x: 22, y: 30.5}
+    - name: Face_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 682
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 28.5}
+        - {x: -25, y: -26.5}
+        - {x: -19, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 25, y: -26.5}
+        - {x: 25, y: 9.5}
+        - {x: 21, y: 28.5}
+    - name: Face_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 609
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -3.5}
+        - {x: -28, y: -3.5}
+        - {x: -31, y: -4.5}
+        - {x: -31, y: -20.5}
+        - {x: -30, y: -25.5}
+        - {x: -17, y: -25.5}
+        - {x: -14, y: -22.5}
+        - {x: -14, y: -7.5}
+      - - {x: -19, y: 27.5}
+        - {x: -21, y: 22.5}
+        - {x: -21, y: -7.5}
+        - {x: -14, y: -18.5}
+        - {x: 28, y: -18.5}
+        - {x: 32, y: -17.5}
+        - {x: 32, y: 12.5}
+        - {x: 28, y: 23.5}
+        - {x: 18, y: 27.5}
+    - name: Face_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 614
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24.5}
+        - {x: -19, y: 22.5}
+        - {x: -22, y: 4.5}
+        - {x: -22, y: -24.5}
+        - {x: 22, y: -24.5}
+        - {x: 22, y: 24.5}
+    - name: Face_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 611
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 27}
+        - {x: -24, y: 16}
+        - {x: -24, y: -16}
+        - {x: -20, y: -19}
+        - {x: -11, y: -27}
+        - {x: 21, y: -27}
+        - {x: 24, y: -22}
+        - {x: 24, y: 27}
+    - name: Face_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 26}
+        - {x: -25.5, y: 21}
+        - {x: -25.5, y: -17}
+        - {x: -15.5, y: -26}
+        - {x: 21.5, y: -26}
+        - {x: 25.5, y: -16}
+        - {x: 25.5, y: 23}
+        - {x: 22.5, y: 26}
+    - name: Face_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 614
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24.5}
+        - {x: -24, y: -13.5}
+        - {x: -9, y: -24.5}
+        - {x: 7, y: -24.5}
+        - {x: 24, y: -10.5}
+        - {x: 24, y: 24.5}
+    - name: Face_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 608
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 30.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -26.5, y: -15.5}
+        - {x: -13.5, y: -30.5}
+        - {x: 26.5, y: -30.5}
+        - {x: 26.5, y: 19.5}
+        - {x: 19.5, y: 30.5}
+    - name: Face_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 607
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 31.5}
+        - {x: -15, y: 31.5}
+        - {x: -23, y: 29.5}
+        - {x: -28, y: 24.5}
+        - {x: -28, y: -23.5}
+        - {x: -14, y: -31.5}
+        - {x: 24, y: -31.5}
+        - {x: 28, y: -24.5}
+        - {x: 28, y: 5.5}
+        - {x: 27, y: 19.5}
+    - name: Face_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 608
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 30}
+        - {x: -27.5, y: 9}
+        - {x: -27.5, y: -28}
+        - {x: -25.5, y: -30}
+        - {x: 27.5, y: -30}
+        - {x: 27.5, y: 23}
+        - {x: 24.5, y: 30}
+    - name: Face_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 610
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 28}
+        - {x: -28, y: 28}
+        - {x: -30, y: 20}
+        - {x: -30, y: -25}
+        - {x: -27, y: -28}
+        - {x: 23, y: -28}
+        - {x: 30, y: -21}
+        - {x: 30, y: 23}
+    - name: Face_47
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 608
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 30}
+        - {x: -31.5, y: 16}
+        - {x: -31.5, y: -17}
+        - {x: -17.5, y: -30}
+        - {x: 11.5, y: -30}
+        - {x: 23.5, y: -25}
+        - {x: 31.5, y: -13}
+        - {x: 31.5, y: 9}
+        - {x: 23.5, y: 30}
+    - name: Face_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 524
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.6160534, y: 0.50000083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.659523, y: 5.499939}
+        - {x: -40.659523, y: -10.500061}
+        - {x: -40.659523, y: -35.50006}
+        - {x: -14.659523, y: -35.50006}
+        - {x: -14.659523, y: -5.500061}
+        - {x: -16.659523, y: 5.499939}
+      - - {x: -14.659523, y: 36.49994}
+        - {x: -20.659523, y: 30.499939}
+        - {x: -22.659523, y: 21.499939}
+        - {x: -22.659523, y: -5.500061}
+        - {x: -13.659523, y: -23.500061}
+        - {x: 24.340477, y: -23.500061}
+        - {x: 25.340477, y: -20.500061}
+        - {x: 25.340477, y: 31.499939}
+        - {x: 12.340477, y: 36.49994}
+    - name: Face_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 534
+        width: 66
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6595733, y: 0.5000011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.531837, y: 28.499939}
+        - {x: -41.531837, y: 5.499939}
+        - {x: -41.531837, y: -27.500061}
+        - {x: -40.531837, y: -28.500061}
+        - {x: 15.468163, y: -28.500061}
+        - {x: 22.468163, y: -20.500061}
+        - {x: 22.468163, y: 26.499939}
+        - {x: 17.468163, y: 28.499939}
+    - name: Face_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 531
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 31}
+        - {x: -20.5, y: -27}
+        - {x: -15.5, y: -31}
+        - {x: 12.5, y: -31}
+        - {x: 20.5, y: -28}
+        - {x: 20.5, y: 31}
+    - name: Face_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 521
+        width: 68
+        height: 82
+      alignment: 9
+      pivot: {x: 0.31696007, y: 0.5000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.4467163, y: 40.99994}
+        - {x: -21.553284, y: 40.99994}
+        - {x: -21.553284, y: -41.00006}
+        - {x: 46.446716, y: -41.00006}
+        - {x: 46.446716, y: -11.000061}
+        - {x: 3.4467163, y: 39.99994}
+    - name: Face_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 534
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 27.5}
+        - {x: -14, y: 27.5}
+        - {x: -22, y: 24.5}
+        - {x: -22, y: -12.5}
+        - {x: -11, y: -27.5}
+        - {x: 17, y: -27.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 13.5}
+        - {x: 21, y: 20.5}
+    - name: Face_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 533
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 29.5}
+        - {x: -31.5, y: -29.5}
+        - {x: 21.5, y: -29.5}
+        - {x: 31.5, y: -26.5}
+        - {x: 31.5, y: 19.5}
+        - {x: 26.5, y: 29.5}
+    - name: Face_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 531
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 31.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -8.5, y: -31.5}
+        - {x: 7.5, y: -31.5}
+        - {x: 24.5, y: -4.5}
+        - {x: 24.5, y: 31.5}
+    - name: Face_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 530
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 31.5}
+        - {x: -24, y: -25.5}
+        - {x: -20, y: -27.5}
+        - {x: -8, y: -31.5}
+        - {x: 14, y: -31.5}
+        - {x: 24, y: -25.5}
+        - {x: 24, y: 20.5}
+        - {x: 7, y: 31.5}
+    - name: Face_59
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 530
+        width: 79
+        height: 63
+      alignment: 9
+      pivot: {x: 0.29385182, y: 0.5107713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.214294, y: 30.821411}
+        - {x: -23.214294, y: 27.821411}
+        - {x: -23.214294, y: -28.178589}
+        - {x: -21.214294, y: -28.178589}
+        - {x: -15.214294, y: -32.17859}
+        - {x: 50.785706, y: -32.17859}
+        - {x: 55.785706, y: -17.178589}
+        - {x: 55.785706, y: 30.821411}
+    - name: Face_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34.5}
+        - {x: -26, y: 28.5}
+        - {x: -26, y: -26.5}
+        - {x: -23, y: -34.5}
+        - {x: 8, y: -34.5}
+        - {x: 26, y: -19.5}
+        - {x: 26, y: 34.5}
+    - name: Face_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 451
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 29.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -12.5, y: -29.5}
+        - {x: 7.5, y: -29.5}
+        - {x: 22.5, y: -13.5}
+        - {x: 22.5, y: 29.5}
+    - name: Face_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 446
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 34.5}
+        - {x: -20.5, y: 32.5}
+        - {x: -20.5, y: -22.5}
+        - {x: 1.5, y: -34.5}
+        - {x: 11.5, y: -34.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 20.5, y: 30.5}
+        - {x: 6.5, y: 34.5}
+    - name: Face_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 450
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -29.5}
+        - {x: -27, y: -32.5}
+        - {x: 11, y: -32.5}
+        - {x: 16, y: -30.5}
+        - {x: 16, y: 7.5}
+        - {x: 13, y: 14.5}
+        - {x: -29, y: 14.5}
+        - {x: -38, y: 11.5}
+        - {x: -38, y: -11.5}
+      - - {x: 33, y: 29.5}
+        - {x: 17, y: 29.5}
+        - {x: 8, y: 15.5}
+        - {x: 8, y: 2.5}
+        - {x: 11, y: -0.5}
+        - {x: 23, y: -0.5}
+        - {x: 36, y: 6.5}
+        - {x: 38, y: 14.5}
+        - {x: 38, y: 21.5}
+        - {x: 37, y: 23.5}
+    - name: Face_65
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 447
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 33}
+        - {x: -11, y: 27}
+        - {x: -24, y: 9}
+        - {x: -24, y: -6}
+        - {x: -17, y: -19}
+        - {x: 8, y: -33}
+        - {x: 23, y: -33}
+        - {x: 24, y: -30}
+        - {x: 24, y: 32}
+        - {x: 22, y: 33}
+    - name: Face_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 445
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 33.5}
+        - {x: -27, y: -31.5}
+        - {x: 24, y: -31.5}
+        - {x: 27, y: -27.5}
+        - {x: 27, y: -10.5}
+        - {x: 13, y: 33.5}
+    - name: Face_67
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 446
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -18.5}
+        - {x: -19, y: -34.5}
+        - {x: 7, y: -34.5}
+        - {x: 26, y: -18.5}
+        - {x: 26, y: 33.5}
+        - {x: 23, y: 34.5}
+    - name: Face_68
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 444
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -21.5}
+        - {x: -16.5, y: -22.5}
+        - {x: -13.5, y: -36.5}
+        - {x: 15.5, y: -36.5}
+        - {x: 23.5, y: -32.5}
+        - {x: 23.5, y: 25.5}
+        - {x: 21.5, y: 31.5}
+        - {x: 18.5, y: 36.5}
+        - {x: -19.5, y: 36.5}
+        - {x: -23.5, y: 35.5}
+    - name: Face_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 449
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 31.5}
+        - {x: -24, y: 22.5}
+        - {x: -24, y: -26.5}
+        - {x: -11, y: -31.5}
+        - {x: 22, y: -31.5}
+        - {x: 24, y: -30.5}
+        - {x: 24, y: 12.5}
+        - {x: 23, y: 22.5}
+        - {x: 16, y: 31.5}
+    - name: Face_70
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 448
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32.5}
+        - {x: -26, y: 31.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -1.5}
+        - {x: -6, y: -32.5}
+        - {x: 22, y: -32.5}
+        - {x: 27, y: -28.5}
+        - {x: 27, y: 21.5}
+        - {x: 22, y: 32.5}
+    - name: Face_71
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 456
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -30.5, y: 21.5}
+        - {x: -30.5, y: 3.5}
+        - {x: -27.5, y: -12.5}
+        - {x: -19.5, y: -24.5}
+        - {x: 3.5, y: -24.5}
+        - {x: 30.5, y: -15.5}
+        - {x: 30.5, y: 15.5}
+        - {x: 26.5, y: 23.5}
+    - name: Face_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 371
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 33.5}
+        - {x: -26, y: -26.5}
+        - {x: -6, y: -33.5}
+        - {x: 22, y: -33.5}
+        - {x: 26, y: -32.5}
+        - {x: 26, y: 6.5}
+        - {x: 8, y: 33.5}
+    - name: Face_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 377
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 7}
+        - {x: 10, y: 2}
+        - {x: 10, y: -22}
+        - {x: 12, y: -27}
+        - {x: 31, y: -27}
+        - {x: 31, y: 7}
+      - - {x: -35, y: 27}
+        - {x: -35, y: -12}
+        - {x: -25, y: -24}
+        - {x: 3, y: -24}
+        - {x: 9, y: -23}
+        - {x: 9, y: 25}
+        - {x: 7, y: 27}
+    - name: Face_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 378
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27}
+        - {x: -20.5, y: 26}
+        - {x: -20.5, y: -27}
+        - {x: 11.5, y: -27}
+        - {x: 20.5, y: -18}
+        - {x: 20.5, y: 27}
+    - name: Face_78
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 378
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 27}
+        - {x: -21, y: -23}
+        - {x: -19, y: -27}
+        - {x: 16, y: -27}
+        - {x: 21, y: -20}
+        - {x: 21, y: 27}
+    - name: Face_82
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 380
+        width: 67
+        height: 51
+      alignment: 9
+      pivot: {x: 0.638466, y: 0.4999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.777222, y: 25.50003}
+        - {x: -40.77722, y: 20.50003}
+        - {x: -40.77722, y: -11.4999695}
+        - {x: -25.777222, y: -25.49997}
+        - {x: 23.222778, y: -25.49997}
+        - {x: 24.222778, y: -21.49997}
+        - {x: 24.222778, y: 25.50003}
+    - name: Face_83
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 382
+        width: 82
+        height: 52
+      alignment: 9
+      pivot: {x: 0.266478, y: 0.4263511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.148804, y: 23.829742}
+        - {x: 27.148804, y: 21.829742}
+        - {x: 20.148804, y: -8.170258}
+        - {x: 20.148804, y: -21.170258}
+        - {x: 21.148804, y: -22.170258}
+        - {x: 44.148804, y: -22.170258}
+        - {x: 60.148804, y: -7.1702576}
+        - {x: 60.148804, y: 21.829742}
+        - {x: 54.148804, y: 23.829742}
+      - - {x: 16.148804, y: 29.829742}
+        - {x: -20.851196, y: 29.829742}
+        - {x: -21.851196, y: 27.829742}
+        - {x: -21.851196, y: -17.170258}
+        - {x: -12.851196, y: -22.170258}
+        - {x: 10.148804, y: -22.170258}
+        - {x: 20.148804, y: -13.170258}
+        - {x: 27.148804, y: 2.8297424}
+        - {x: 27.148804, y: 20.829742}
+    - name: Face_85
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 378
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27.5}
+        - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -9.5}
+        - {x: -10.5, y: -27.5}
+        - {x: 7.5, y: -27.5}
+        - {x: 21.5, y: -7.5}
+        - {x: 22.5, y: -5.5}
+        - {x: 22.5, y: 27.5}
+    - name: Face_86
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 380
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 26}
+        - {x: -23.5, y: 18}
+        - {x: -23.5, y: -14}
+        - {x: -22.5, y: -24}
+        - {x: -15.5, y: -26}
+        - {x: 23.5, y: -26}
+        - {x: 23.5, y: 22}
+        - {x: 16.5, y: 26}
+    - name: Face_87
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 370
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -11}
+        - {x: -23.5, y: -12}
+        - {x: -29.5, y: -23}
+        - {x: -29.5, y: -31}
+        - {x: -23.5, y: -35}
+        - {x: -13.5, y: -35}
+        - {x: -13.5, y: -22}
+        - {x: -16.5, y: -12}
+      - - {x: 26.5, y: 35}
+        - {x: -0.5, y: 35}
+        - {x: -15.5, y: 17}
+        - {x: -15.5, y: -18}
+        - {x: -9.5, y: -30}
+        - {x: 12.5, y: -30}
+        - {x: 28.5, y: -10}
+        - {x: 31.5, y: 6}
+        - {x: 31.5, y: 30}
+    - name: Face_88
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 378
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 27.5}
+        - {x: -30, y: -26.5}
+        - {x: -26, y: -27.5}
+        - {x: 6, y: -27.5}
+        - {x: 30, y: -11.5}
+        - {x: 30, y: 16.5}
+        - {x: 23, y: 27.5}
+    - name: Face_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 302
+        width: 72
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6522773, y: 0.48639655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.963966, y: 31.843414}
+        - {x: -14.963966, y: 30.843414}
+        - {x: -30.963966, y: 12.843414}
+        - {x: -33.963966, y: -2.1565857}
+        - {x: -33.963966, y: -22.156586}
+        - {x: -12.963966, y: -30.156586}
+        - {x: 18.036034, y: -30.156586}
+        - {x: 25.036034, y: -27.156586}
+        - {x: 25.036034, y: 27.843414}
+        - {x: 22.036034, y: 31.843414}
+      - - {x: -46.963966, y: 13.843414}
+        - {x: -40.963966, y: 4.8434143}
+        - {x: -27.963966, y: 4.8434143}
+        - {x: -27.963966, y: 15.843414}
+        - {x: -29.963966, y: 28.843414}
+        - {x: -32.963966, y: 29.843414}
+        - {x: -40.963966, y: 29.843414}
+        - {x: -46.963966, y: 24.843414}
+    - name: Face_92
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 304
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 31.5}
+        - {x: -20.5, y: 31.5}
+        - {x: -26.5, y: 21.5}
+        - {x: -26.5, y: -31.5}
+        - {x: 18.5, y: -31.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 26.5, y: 5.5}
+        - {x: 22.5, y: 20.5}
+    - name: Face_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 301
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 32}
+        - {x: -32.5, y: 16}
+        - {x: -32.5, y: -19}
+        - {x: -14.5, y: -30}
+        - {x: -9.5, y: -32}
+        - {x: 20.5, y: -32}
+        - {x: 32.5, y: -17}
+        - {x: 32.5, y: 12}
+        - {x: 21.5, y: 32}
+    - name: Face_95
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 309
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 28}
+        - {x: -25.5, y: -17}
+        - {x: -17.5, y: -28}
+        - {x: 13.5, y: -28}
+        - {x: 25.5, y: -26}
+        - {x: 25.5, y: 7}
+        - {x: 20.5, y: 28}
+    - name: Face_96
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 301
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 32.5}
+        - {x: -22, y: 32.5}
+        - {x: -25, y: 29.5}
+        - {x: -25, y: -30.5}
+        - {x: -24, y: -32.5}
+        - {x: 12, y: -32.5}
+        - {x: 25, y: -24.5}
+        - {x: 25, y: 22.5}
+    - name: Face_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 302
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31.5}
+        - {x: -29, y: 7.5}
+        - {x: -29, y: -26.5}
+        - {x: -20, y: -31.5}
+        - {x: 17, y: -31.5}
+        - {x: 29, y: -9.5}
+        - {x: 29, y: 22.5}
+        - {x: 21, y: 31.5}
+    - name: Face_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 301
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32.5}
+        - {x: -13, y: 31.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -26.5}
+        - {x: -23, y: -32.5}
+        - {x: 11, y: -32.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: 27.5}
+        - {x: 19, y: 32.5}
+    - name: Face_99
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 304
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 29.5}
+        - {x: -14, y: 29.5}
+        - {x: -31, y: 4.5}
+        - {x: -31, y: -18.5}
+        - {x: -29, y: -24.5}
+        - {x: -14, y: -29.5}
+        - {x: 16, y: -29.5}
+        - {x: 31, y: -14.5}
+        - {x: 31, y: 21.5}
+    - name: Face_100
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 304
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 29.5}
+        - {x: -30, y: 24.5}
+        - {x: -30, y: -28.5}
+        - {x: -26, y: -29.5}
+        - {x: 30, y: -29.5}
+        - {x: 30, y: 22.5}
+        - {x: 12, y: 29.5}
+    - name: Face_101
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 302
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 31}
+        - {x: -30.5, y: 19}
+        - {x: -31.5, y: 12}
+        - {x: -31.5, y: -31}
+        - {x: 9.5, y: -31}
+        - {x: 31.5, y: -23}
+        - {x: 31.5, y: 24}
+        - {x: 27.5, y: 31}
+    - name: Face_106
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 231
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 31.5}
+        - {x: -20, y: 31.5}
+        - {x: -29, y: 18.5}
+        - {x: -29, y: -31.5}
+        - {x: 11, y: -31.5}
+        - {x: 29, y: -8.5}
+        - {x: 29, y: 21.5}
+        - {x: 22, y: 30.5}
+    - name: Face_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 234
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -31.5, y: 19.5}
+        - {x: -31.5, y: -28.5}
+        - {x: 27.5, y: -28.5}
+        - {x: 31.5, y: -20.5}
+        - {x: 31.5, y: -2.5}
+        - {x: 22.5, y: 28.5}
+    - name: Face_108
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 232
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -25, y: 10}
+        - {x: -25, y: -30}
+        - {x: 15, y: -30}
+        - {x: 25, y: -27}
+        - {x: 25, y: 19}
+        - {x: 16, y: 30}
+    - name: Face_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 229
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 33.5}
+        - {x: -25, y: 26.5}
+        - {x: -25, y: -25.5}
+        - {x: -19, y: -33.5}
+        - {x: 6, y: -33.5}
+        - {x: 25, y: -25.5}
+        - {x: 25, y: 16.5}
+        - {x: 17, y: 33.5}
+    - name: Face_110
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 228
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 34}
+        - {x: -23.5, y: 27}
+        - {x: -23.5, y: -34}
+        - {x: 19.5, y: -34}
+        - {x: 23.5, y: -21}
+        - {x: 23.5, y: 29}
+        - {x: 18.5, y: 34}
+    - name: Face_111
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 236
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 26.5}
+        - {x: -33.5, y: 20.5}
+        - {x: -33.5, y: -19.5}
+        - {x: -29.5, y: -26.5}
+        - {x: 19.5, y: -26.5}
+        - {x: 33.5, y: -15.5}
+        - {x: 33.5, y: 16.5}
+        - {x: 25.5, y: 26.5}
+    - name: Face_112
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 232
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 30}
+        - {x: -22.5, y: 28}
+        - {x: -25.5, y: 13}
+        - {x: -25.5, y: -27}
+        - {x: -23.5, y: -30}
+        - {x: 23.5, y: -30}
+        - {x: 25.5, y: -19}
+        - {x: 25.5, y: 30}
+    - name: Face_113
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 28}
+        - {x: -28, y: 18}
+        - {x: -28, y: -24}
+        - {x: -23, y: -28}
+        - {x: 18, y: -28}
+        - {x: 28, y: -21}
+        - {x: 28, y: 17}
+        - {x: 27, y: 19}
+        - {x: 11, y: 28}
+    - name: Face_114
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 234
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 28}
+        - {x: -17.5, y: 28}
+        - {x: -30.5, y: 13}
+        - {x: -31.5, y: 4}
+        - {x: -31.5, y: -16}
+        - {x: -24.5, y: -28}
+        - {x: 15.5, y: -28}
+        - {x: 19.5, y: -26}
+        - {x: 31.5, y: -14}
+        - {x: 31.5, y: 18}
+    - name: Face_115
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 234
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28.5}
+        - {x: -30, y: 15.5}
+        - {x: -30, y: -21.5}
+        - {x: -16, y: -28.5}
+        - {x: 25, y: -28.5}
+        - {x: 30, y: -25.5}
+        - {x: 30, y: 13.5}
+        - {x: 24, y: 28.5}
+    - name: Face_117
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 155
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 28.5}
+        - {x: -28, y: 23.5}
+        - {x: -28, y: -31.5}
+        - {x: -20, y: -34.5}
+        - {x: 26, y: -34.5}
+        - {x: 28, y: -33.5}
+        - {x: 28, y: 24.5}
+        - {x: 24, y: 28.5}
+      - - {x: -25, y: 21.5}
+        - {x: -21, y: 20.5}
+        - {x: -18, y: 21.5}
+        - {x: -18, y: 25.5}
+        - {x: -20, y: 34.5}
+        - {x: -28, y: 34.5}
+        - {x: -28, y: 28.5}
+    - name: Face_118
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 158
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 32}
+        - {x: -18.5, y: 26}
+        - {x: -28.5, y: 6}
+        - {x: -28.5, y: -32}
+        - {x: 26.5, y: -32}
+        - {x: 28.5, y: -29}
+        - {x: 28.5, y: 17}
+        - {x: 23.5, y: 32}
+    - name: Face_119
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 158
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 32}
+        - {x: -20.5, y: 30}
+        - {x: -28.5, y: -1}
+        - {x: -28.5, y: -32}
+        - {x: 28.5, y: -32}
+        - {x: 28.5, y: 28}
+        - {x: 20.5, y: 32}
+    - name: Face_120
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 157
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 32.5}
+        - {x: -19.5, y: 27.5}
+        - {x: -28.5, y: 12.5}
+        - {x: -28.5, y: -26.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 21.5, y: -32.5}
+        - {x: 28.5, y: -28.5}
+        - {x: 28.5, y: 27.5}
+        - {x: 23.5, y: 32.5}
+    - name: Face_121
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 158
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31.5}
+        - {x: -26, y: -31.5}
+        - {x: 26, y: -31.5}
+        - {x: 26, y: 31.5}
+    - name: Face_122
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 160
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 30.5}
+        - {x: -16, y: 30.5}
+        - {x: -31, y: 13.5}
+        - {x: -31, y: -25.5}
+        - {x: -19, y: -30.5}
+        - {x: 21, y: -30.5}
+        - {x: 31, y: -21.5}
+        - {x: 31, y: 12.5}
+        - {x: 29, y: 23.5}
+    - name: Face_123
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 163
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 26.5}
+        - {x: -22.5, y: -17.5}
+        - {x: -12.5, y: -26.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 22.5, y: 26.5}
+    - name: Face_124
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 161
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -24, y: 27}
+        - {x: -24, y: -25}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 24, y: 29}
+    - name: Face_125
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 162
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28.5}
+        - {x: -25.5, y: 26.5}
+        - {x: -30.5, y: 20.5}
+        - {x: -30.5, y: -21.5}
+        - {x: -25.5, y: -28.5}
+        - {x: 30.5, y: -28.5}
+        - {x: 30.5, y: 19.5}
+        - {x: 19.5, y: 28.5}
+    - name: Face_126
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 162
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28.5}
+        - {x: -25.5, y: 26.5}
+        - {x: -30.5, y: 20.5}
+        - {x: -30.5, y: -21.5}
+        - {x: -25.5, y: -28.5}
+        - {x: 30.5, y: -28.5}
+        - {x: 30.5, y: 19.5}
+        - {x: 19.5, y: 28.5}
+    - name: Face_127
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 88
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 28.5}
+        - {x: -32.5, y: 0.5}
+        - {x: -32.5, y: -20.5}
+        - {x: -23.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 32.5, y: -19.5}
+        - {x: 32.5, y: 12.5}
+        - {x: 26.5, y: 28.5}
+    - name: Face_128
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 88
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 24.5}
+        - {x: 29.5, y: 28.5}
+        - {x: -4.5, y: 28.5}
+        - {x: -31.5, y: 17.5}
+        - {x: -31.5, y: -27.5}
+        - {x: -30.5, y: -28.5}
+        - {x: -8.5, y: -28.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 30.5, y: -15.5}
+        - {x: 31.5, y: -10.5}
+    - name: Face_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 87
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 11}
+        - {x: -34.5, y: 2}
+        - {x: -34.5, y: -11}
+        - {x: -15.5, y: -30}
+        - {x: 26.5, y: -30}
+        - {x: 34.5, y: -25}
+        - {x: 34.5, y: 30}
+        - {x: -13.5, y: 30}
+        - {x: -29.5, y: 21}
+    - name: Face_130
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 89
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 27.5}
+        - {x: -28, y: -20.5}
+        - {x: -19, y: -27.5}
+        - {x: 23, y: -27.5}
+        - {x: 28, y: -24.5}
+        - {x: 28, y: 24.5}
+        - {x: 17, y: 27.5}
+    - name: Face_131
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 87
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 29.5}
+        - {x: -28.5, y: 28.5}
+        - {x: -28.5, y: -29.5}
+        - {x: 19.5, y: -29.5}
+        - {x: 28.5, y: -20.5}
+        - {x: 28.5, y: 10.5}
+        - {x: 16.5, y: 29.5}
+    - name: Face_132
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 88
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -25, y: 26.5}
+        - {x: -30, y: 21.5}
+        - {x: -30, y: -19.5}
+        - {x: -24, y: -28.5}
+        - {x: 30, y: -28.5}
+        - {x: 30, y: 23.5}
+        - {x: 24, y: 28.5}
+    - name: Face_134
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 88
+        width: 71
+        height: 59
+      alignment: 9
+      pivot: {x: 0.62141913, y: 0.49188232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.120758, y: 29.978943}
+        - {x: -27.120758, y: 22.978943}
+        - {x: -30.120758, y: 5.978943}
+        - {x: -30.120758, y: -24.021057}
+        - {x: -16.120758, y: -29.021057}
+        - {x: 19.879242, y: -29.021057}
+        - {x: 26.879242, y: -20.021057}
+        - {x: 26.879242, y: 26.978943}
+        - {x: 18.879242, y: 29.978943}
+      - - {x: -44.120758, y: 24.978943}
+        - {x: -44.120758, y: 8.978943}
+        - {x: -40.120758, y: 6.978943}
+        - {x: -28.120758, y: 6.978943}
+        - {x: -28.120758, y: 22.978943}
+        - {x: -30.120758, y: 24.978943}
+    - name: Face_135
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 88
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 29.5}
+        - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -22.5}
+        - {x: -21.5, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 21.5}
+        - {x: 19.5, y: 29.5}
+    - name: Face_136
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 82
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 35}
+        - {x: -27.5, y: 31}
+        - {x: -27.5, y: -13}
+        - {x: -14.5, y: -35}
+        - {x: 21.5, y: -35}
+        - {x: 27.5, y: -21}
+        - {x: 27.5, y: 35}
+    - name: Face_137
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 81
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 35.5}
+        - {x: -32.5, y: 28.5}
+        - {x: -32.5, y: -17.5}
+        - {x: 7.5, y: -35.5}
+        - {x: 32.5, y: -35.5}
+        - {x: 32.5, y: 35.5}
+    - name: Face_138
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29.5}
+        - {x: -26, y: 19.5}
+        - {x: -26, y: -11.5}
+        - {x: -19, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 26, y: -24.5}
+        - {x: 26, y: 29.5}
+    - name: Face_139
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 15
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27}
+        - {x: -31, y: 13}
+        - {x: -31, y: -20}
+        - {x: -26, y: -27}
+        - {x: 27, y: -27}
+        - {x: 31, y: -25}
+        - {x: 31, y: 14}
+        - {x: 30, y: 17}
+        - {x: 19, y: 25}
+        - {x: 13, y: 27}
+    - name: Face_140
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 31.5}
+        - {x: -28.5, y: -30.5}
+        - {x: -23.5, y: -31.5}
+        - {x: 5.5, y: -31.5}
+        - {x: 28.5, y: -23.5}
+        - {x: 28.5, y: 9.5}
+        - {x: 15.5, y: 31.5}
+    - name: Face_141
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 31.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -20.5, y: -18.5}
+        - {x: -12.5, y: -31.5}
+        - {x: 15.5, y: -31.5}
+        - {x: 20.5, y: -27.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 15.5, y: 31.5}
+    - name: Face_142
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 13
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 28.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -23.5, y: -19.5}
+        - {x: -16.5, y: -28.5}
+        - {x: 23.5, y: -28.5}
+        - {x: 23.5, y: 25.5}
+        - {x: 17.5, y: 28.5}
+    - name: Face_144
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 12
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 29.5}
+        - {x: -21.5, y: 24.5}
+        - {x: -30.5, y: -8.5}
+        - {x: -30.5, y: -29.5}
+        - {x: 37.5, y: -29.5}
+        - {x: 37.5, y: 2.5}
+        - {x: 24.5, y: 29.5}
+      - - {x: -35.5, y: 28.5}
+        - {x: -37.5, y: 26.5}
+        - {x: -37.5, y: 11.5}
+        - {x: -36.5, y: 9.5}
+        - {x: -23.5, y: 9.5}
+        - {x: -20.5, y: 10.5}
+        - {x: -20.5, y: 23.5}
+        - {x: -24.5, y: 28.5}
+    - name: Face_145
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 6
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 36}
+        - {x: -32.5, y: 8}
+        - {x: -32.5, y: -27}
+        - {x: -26.5, y: -36}
+        - {x: 4.5, y: -36}
+        - {x: 32.5, y: -26}
+        - {x: 32.5, y: 13}
+        - {x: 29.5, y: 20}
+        - {x: 16.5, y: 36}
+    - name: Face_146
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 7
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 34.5}
+        - {x: -34, y: 8.5}
+        - {x: -34, y: -22.5}
+        - {x: 4, y: -34.5}
+        - {x: 34, y: -34.5}
+        - {x: 34, y: 11.5}
+        - {x: 19, y: 34.5}
+    - name: Face_147
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 8
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 33.5}
+        - {x: -29.5, y: 0.5}
+        - {x: -29.5, y: -17.5}
+        - {x: -22.5, y: -29.5}
+        - {x: -15.5, y: -33.5}
+        - {x: 13.5, y: -33.5}
+        - {x: 29.5, y: -26.5}
+        - {x: 29.5, y: 28.5}
+        - {x: 17.5, y: 33.5}
+    - name: Face_148
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 8
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 34}
+        - {x: -19.5, y: 32}
+        - {x: -29.5, y: 14}
+        - {x: -29.5, y: -27}
+        - {x: -26.5, y: -34}
+        - {x: 29.5, y: -34}
+        - {x: 29.5, y: 29}
+        - {x: 21.5, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
