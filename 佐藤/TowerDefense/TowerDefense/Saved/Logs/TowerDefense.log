@@ -1,0 +1,1085 @@
+﻿Log file open, 02/05/17 20:55:32
+LogInit:Display: Running engine for game: TowerDefense
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1954381368) SRandInit(-1954381367).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.076543
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.05-11.55.32:685][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.05-11.55.32:685][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.05-11.55.32:781][  0]LogInit: Computer: TAKE-PC
+[2017.02.05-11.55.32:781][  0]LogInit: User: take
+[2017.02.05-11.55.32:781][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.02.05-11.55.32:781][  0]LogInit: High frequency timer resolution =2.338486 MHz
+[2017.02.05-11.55.32:781][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.02.05-11.55.32:781][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.05-11.55.32:781][  0]LogMemory: Process Physical Memory: 266.61 MB used, 266.61 MB peak
+[2017.02.05-11.55.32:781][  0]LogMemory: Process Virtual Memory: 265.91 MB used, 265.91 MB peak
+[2017.02.05-11.55.32:781][  0]LogMemory: Physical Memory: 5201.11 MB used,  2883.99 MB free, 8085.10 MB total
+[2017.02.05-11.55.32:781][  0]LogMemory: Virtual Memory: 661.50 MB used,  2883.99 MB free, 8388608.00 MB total
+[2017.02.05-11.55.34:661][  0]LogTextLocalizationManager: No specific translations for ('ja-JP') exist, so ('ja') translations will be used.
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (真の場合、Relevant anim ノードはアニメーションで最も高いウェイトのものを無視します。
+このノード)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ja/Engine.locres) Source String Hash: (319969718) Localized String: (真の場合、アニメーションで最も高いウェイトのものを無視するRelevant anim ノードは
+このノードを無視します)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_BlendSpacePlayer:bLoop):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (2133979316) Localized String: (再生が最後まで終わった後、ループ再生するようにしますか？)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (2133979316) Localized String: (ループが最後まで到達した時に、アニメーションのループを継続するべきか？)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_StateMachine:bSkipFirstUpdateTransition):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (1865475011) Localized String: (最初の更新時にエントリ ステートからの遷移をスキップします。 
+デフォルトでは true になっています。遷移データは最初の更新時に破棄されます。)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (1865475011) Localized String: (最初の更新時にエントリ ステートからの遷移をスキップします。
+デフォルトでは true になっています。遷移データは最初の更新時に破棄されます。)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_BlendSpacePlayer:X):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (2060772590) Localized String: (ブレンドスペースで値を取得するX座標)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (2060772590) Localized String: (ブレンドスペースでサンプリングするX座標)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_BlendSpacePlayer:Y):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (-1719607538) Localized String: (ブレンドスペースで値を取得するY座標)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (-1719607538) Localized String: (ブレンドスペースでサンプリングするY座標)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_BlendSpacePlayer:Z):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (1728943471) Localized String: (ブレンドスペースで値を取得するZ座標)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (1728943471) Localized String: (ブレンドスペースでサンプリングするZ座標)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_BlendSpacePlayer:BlendSpace):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (1599043277) Localized String: (再生するブレンドスペースのアセット)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (1599043277) Localized String: (再生するブレンド空間アセット)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_StateMachine:MaxTransitionsPerFrame):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (1567650430) Localized String: (このマシーンで1フレームあたりに同時に処理できるトランジションの最大数)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (1567650430) Localized String: (単一フレームでマシーンが「同時」に受け取れる遷移の最大数)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_BlendSpacePlayer:PlayRate):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/EditorTutorials/ja/EditorTutorials.locres) Source String Hash: (-1274923958) Localized String: (再生速度の倍率です。負の数値も使う事ができます。その場合逆再生になります。)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (-1274923958) Localized String: (再生レート乗数。アニメーションを逆再生する負の値にすることができます。)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_SequencePlayer:bLoopAnimation):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (2133979316) Localized String: (ループが最後まで到達した時に、アニメーションのループを継続するべきか？)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ja/Engine.locres) Source String Hash: (2133979316) Localized String: (最後に到達した時にアニメーションのループを継続しますか？)
+[2017.02.05-11.55.35:271][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_SequencePlayer:PlayRate):
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/ToolTips/ja/ToolTips.locres) Source String Hash: (-1274923958) Localized String: (再生レート乗数。アニメーションを逆再生する負の値にすることができます。)
+Localization Resource: (C:/Program Files/Epic Games/UE_4.14/Engine/Content/Localization/Engine/ja/Engine.locres) Source String Hash: (-1274923958) Localized String: (再生速度の倍率です。負の数値も使う事ができます。その場合逆再生になります。)
+[2017.02.05-11.55.46:072][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.05-11.55.46:087][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.02.05-11.55.46:087][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2017.02.05-11.55.47:902][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 650M ' (Feature Level 11_0)
+[2017.02.05-11.55.47:902][  0]LogD3D11RHI:       974/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2017.02.05-11.55.47:902][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.02.05-11.55.47:908][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.05-11.55.47:909][  0]LogD3D11RHI:     GPU DeviceId: 0xfd1 (for the marketing name, search the web for "GPU Device Id")
+[2017.02.05-11.55.47:909][  0]LogWindows: EnumDisplayDevices:
+[2017.02.05-11.55.47:909][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:0 D:1)
+[2017.02.05-11.55.47:910][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2017.02.05-11.55.47:910][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.02.05-11.55.47:910][  0]LogWindows:    3. 'NVIDIA GeForce GT 650M ' (P:0 D:0)
+[2017.02.05-11.55.47:910][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.02.05-11.55.47:910][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.02.05-11.55.47:910][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.02.05-11.55.47:910][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2017.02.05-11.55.47:910][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 650M 
+[2017.02.05-11.55.47:910][  0]LogD3D11RHI:   Driver Version: 295.93 (internal:8.17.12.9593, unified:295.93)
+[2017.02.05-11.55.47:910][  0]LogD3D11RHI:      Driver Date: 2-22-2012
+[2017.02.05-11.55.47:910][  0]LogRHI: Texture pool is 682 MB (70% of 974 MB)
+[2017.02.05-11.55.47:922][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.02.05-11.55.47:922][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.05-11.55.47:935][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.02.05-11.55.49:407][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Intermediate/Shaders/WorkingDirectory/7704/).
+[2017.02.05-11.55.49:407][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/take/AppData/Local/Temp/UnrealShaderWorkingDir/B041790549F12092A92A529C8A1857BF/'.
+[2017.02.05-11.55.49:407][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.05-11.55.52:392][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.05-11.55.52:468][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.05-11.55.52:544][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.05-11.55.52:619][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.05-11.55.52:798][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.05-11.55.52:875][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.05-11.55.52:952][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.05-11.55.53:028][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.05-11.55.53:087][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.05-11.55.53:199][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.05-11.55.53:274][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.05-11.55.53:350][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.05-11.55.53:427][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.05-11.55.53:502][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.05-11.55.53:577][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.05-11.55.53:728][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.05-11.55.53:728][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.05-11.55.53:776][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.05-11.55.53:901][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.05-11.55.53:951][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.05-11.55.54:026][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.05-11.55.54:101][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.05-11.55.54:177][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.05-11.55.54:306][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.05-11.55.54:306][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.05-11.55.54:890][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.05-11.55.54:959][  0]LogDerivedDataCache: Loaded boot cache 0.07s 52MB C:/Users/take/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.05-11.55.54:959][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/take/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.05-11.55.54:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.05-11.55.54:959][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.05-11.55.54:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.05-11.55.54:959][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.05-11.55.54:982][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.05-11.55.54:994][  0]LogDerivedDataCache: Using Local data cache path C:/Users/take/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.05-11.55.55:317][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.05-11.55.55:323][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.05-11.55.55:617][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.05-11.55.55:673][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.05-11.55.55:736][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.05-11.55.55:736][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.05-11.55.55:736][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.05-11.55.56:669][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: towerdefense, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3099810063
+[2017.02.05-11.55.56:733][  0]LogAssetRegistry: FAssetRegistry took 0.0202 seconds to start up
+[2017.02.05-11.55.56:794][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.027361 seconds
+[2017.02.05-11.55.56:802][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.05-11.55.56:802][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.02.05-11.55.56:802][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.05-11.55.56:881][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.05-11.55.58:524][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.05-11.55.58:525][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.05-11.55.58:525][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.05-11.56.00:114][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.05-11.56.00:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.05-11.56.00:540][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.05-11.56.01:051][  0]SourceControl: 情報 ソースコントロールは無効です
+[2017.02.05-11.56.01:121][  0]SourceControl: 情報 ソースコントロールは無効です
+[2017.02.05-11.56.01:202][  0]SourceControl: 情報 ソースコントロールは無効です
+[2017.02.05-11.56.01:266][  0]SourceControl: 情報 ソースコントロールは無効です
+[2017.02.05-11.56.02:863][  0]LogEngine: Initializing Engine...
+[2017.02.05-11.56.02:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.05-11.56.03:229][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.05-11.56.03:243][  0]LogInit: XAudio2 using 'スピーカー (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.05-11.56.03:262][  0]LogInit: FAudioDevice initialized.
+[2017.02.05-11.56.03:303][  0]LogDerivedDataCache: Saved boot cache 0.04s 52MB C:/Users/take/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.05-11.56.03:311][  0]LogInit: Texture streaming: Enabled
+[2017.02.05-11.56.03:539][  0]LogInit: Transaction tracking system initialized
+[2017.02.05-11.56.03:976][  0]BlueprintLog: New page: エディタの読み込み
+[2017.02.05-11.56.05:253][  0]LocalizationService: 情報 ローカライズのサービスが無効になりました
+[2017.02.05-11.56.06:136][  0]LogConsoleResponse:Display: 
+[2017.02.05-11.56.06:394][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.05-11.56.06:394][  0]LogCook:Display: Mobile HDR setting 0
+[2017.02.05-11.56.06:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/' took 0.01s
+[2017.02.05-11.56.07:635][  0]SourceControl: 情報 ソースコントロールは無効です
+[2017.02.05-11.56.07:635][  0]Cmd: MAP LOAD FILE="../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.05-11.56.07:636][  0]LightingResults: New page: ライティングのビルド
+[2017.02.05-11.56.07:696][  0]MapCheck: New page: マップをチェック
+[2017.02.05-11.56.07:696][  0]LightingResults: New page: <何も選択されていません>
+[2017.02.05-11.56.08:221][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.02.05-11.56.08:233][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.05-11.56.08:233][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.05-11.56.08:296][  0]MapCheck: 情報 マップチェックが完了: 0 エラー、 0 警告、完了に 62.741ミリ秒かかりました。
+[2017.02.05-11.56.08:296][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.661
+[2017.02.05-11.56.08:408][  0]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Baidu IME).
+[2017.02.05-11.56.08:533][  0]LogCollectionManager: Loaded 0 collections in 0.002256 seconds
+[2017.02.05-11.56.08:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Collections/' took 0.01s
+[2017.02.05-11.56.08:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Developers/take/Collections/' took 0.01s
+[2017.02.05-11.56.08:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Collections/' took 0.01s
+[2017.02.05-11.56.08:661][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.02.05-11.56.08:681][  0]LogContentBrowser: Native class hierarchy populated in 0.0199 seconds. Added 2190 classes and 428 folders.
+[2017.02.05-11.56.08:737][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.05-11.56.08:737][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.02.05-11.56.08:738][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
+[2017.02.05-11.56.08:827][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.02.05-11.56.08:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.02.05-11.56.08:948][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.02.05-11.56.09:003][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.05-11.56.09:013][  0]LogUObjectGlobals:Warning: オブジェクト 'Class なし.' が見つかりませんでした
+[2017.02.05-11.56.09:115][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.02.05-11.56.09:115][  0]LogLoad: (Engine Initialization) Total time: 40.33 seconds
+[2017.02.05-11.56.09:115][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.30 seconds
+[2017.02.05-11.56.09:115][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.02.05-11.56.09:138][  0]LogOcInput: OculusInput pre-init called
+[2017.02.05-11.56.09:161][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.05-11.56.09:465][  0]LogRenderer: Reallocating scene render targets to support 1208x652 NumSamples 1 (Frame:2).
+[2017.02.05-11.56.10:434][  2]LogAssetRegistry: Asset discovery search completed in 13.7212 seconds
+[2017.02.05-11.56.10:434][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.02.05-11.56.10:434][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000024 seconds (updated 0 objects)
+[2017.02.05-11.56.10:594][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.56.11:863][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.02.05-11.56.15:639][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.02.05-11.56.16:228][141]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Chair)
+[2017.02.05-11.56.24:818][570]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.56.27:164][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.02.05-11.56.30:367][713]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Chair)
+[2017.02.05-11.56.35:651][933]Cmd: DELETE
+[2017.02.05-11.56.35:651][933]Cmd: ACTOR DELETE
+[2017.02.05-11.56.35:708][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.05-11.56.35:872][933]LogEditorActor: Deleted 1 Actors (0.166 secs)
+[2017.02.05-11.56.37:274][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2017.02.05-11.56.38:987][ 20]Cmd: DELETE
+[2017.02.05-11.56.38:987][ 20]Cmd: ACTOR DELETE
+[2017.02.05-11.56.38:988][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.05-11.56.39:000][ 20]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.02.05-11.56.39:872][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.56.40:230][ 56]Cmd: DELETE
+[2017.02.05-11.56.40:230][ 56]Cmd: ACTOR DELETE
+[2017.02.05-11.56.40:231][ 56]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.02.05-11.56.40:269][ 56]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2017.02.05-11.56.41:273][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.02.05-11.56.42:456][120]Cmd: TRANSACTION UNDO
+[2017.02.05-11.56.42:456][120]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.56.43:671][171]Cmd: TRANSACTION UNDO
+[2017.02.05-11.56.43:671][171]LogEditorTransaction: Undo アクタを削除
+[2017.02.05-11.56.45:220][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.02.05-11.56.45:807][230]Cmd: DELETE
+[2017.02.05-11.56.45:808][230]Cmd: ACTOR DELETE
+[2017.02.05-11.56.45:808][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.05-11.56.45:849][230]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2017.02.05-11.56.48:346][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.05-11.56.49:716][350]Cmd: DELETE
+[2017.02.05-11.56.49:716][350]Cmd: ACTOR DELETE
+[2017.02.05-11.56.49:717][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.05-11.56.49:753][350]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.02.05-11.56.51:214][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.05-11.56.51:573][407]Cmd: DELETE
+[2017.02.05-11.56.51:573][407]Cmd: ACTOR DELETE
+[2017.02.05-11.56.51:573][407]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.05-11.56.51:610][407]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2017.02.05-11.56.53:051][455]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2017.02.05-11.56.57:479][581]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2017.02.05-11.56.59:322][634]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.57.01:346][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.57.05:860][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.57.21:855][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.58.08:422][568]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.05-11.58.10:566][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.58.11:083][647]LogEditorViewport: Clicking Background
+[2017.02.05-11.58.12:683][703]LogEditorViewport: Clicking Background
+[2017.02.05-11.58.15:817][827]LogEditorViewport: Clicking Background
+[2017.02.05-11.58.21:796][ 22]LogEditorViewport: Clicking Background
+[2017.02.05-11.58.26:400][190]LogEditorViewport: Clicking Background
+[2017.02.05-11.58.27:099][214]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.05-11.58.27:099][214]Can't find target actor or component.
+[2017.02.05-11.58.34:828][484]LogEditorViewport: Clicking Background
+[2017.02.05-11.58.53:541][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-11.58.57:520][406]LogEditorViewport: Clicking Background
+[2017.02.05-11.59.11:661][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.05-11.59.11:661][913]Can't find target actor or component.
+[2017.02.05-11.59.13:062][966]LogEditorViewport: Clicking Background
+[2017.02.05-11.59.15:243][ 37]LogEditorViewport: Clicking Background
+[2017.02.05-11.59.17:283][101]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.17:283][101]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.17:883][123]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.17:883][123]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.18:596][159]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.18:596][159]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.19:306][185]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.19:306][185]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.19:907][207]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.19:907][207]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.20:502][229]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.20:502][229]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.20:916][245]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.20:916][245]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.21:253][258]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.21:253][258]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.21:512][268]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.21:512][268]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.21:755][277]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.21:755][277]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-11.59.22:070][288]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.22:070][288]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.22:314][296]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.22:314][296]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.22:757][313]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.22:757][313]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.23:042][324]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.23:042][324]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.23:355][336]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.23:355][336]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.23:626][345]Cmd: TRANSACTION UNDO
+[2017.02.05-11.59.23:626][345]LogEditorTransaction: Undo アクタをクリック
+[2017.02.05-11.59.48:147][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.02.05-12.06.09:991][ 94]LogSavePackage: Save=244.65ms
+[2017.02.05-12.06.09:991][ 94]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Minimal_Default_Auto12BD8EEC54614C3E761E015AB8652BC95.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Autosaves/Game/MobileStarterContent/Maps/Minimal_Default_Auto1.umap'
+[2017.02.05-12.06.09:992][ 94]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Autosaves/Game/MobileStarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.02.05-12.06.10:031][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.315
+[2017.02.05-12.06.10:031][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.315
+[2017.02.05-12.08.50:395][290]LightingResults: New page: ライティングのビルド
+[2017.02.05-12.08.50:396][290]MapCheck: New page: マップをチェック
+[2017.02.05-12.08.50:397][290]LightingResults: New page: <何も選択されていません>
+[2017.02.05-12.08.50:437][290]LogAIModule: Creating AISystem for world Untitled
+[2017.02.05-12.08.50:505][290]LoadErrors: New page: 新規のマップ
+[2017.02.05-12.09.25:585][747]LogSavePackage: Save=12.10ms
+[2017.02.05-12.09.25:585][747]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage011E028F3344C35077E18DA0AE64AA7152.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-12.09.25:585][747]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-12.09.25:644][747]LogFileHelpers: Saving map 'stage01' took 0.886
+[2017.02.05-12.10.28:983][584]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.02.05-12.11.54:542][534]LogEditorViewport: Clicking Background
+[2017.02.05-12.12.32:760][385]LogEditorViewport: Clicking Background
+[2017.02.05-12.13.25:909][909]LogEditorViewport: Clicking Background
+[2017.02.05-12.13.27:620][996]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.02.05-12.14.07:383][706]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.14.20:377][225]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.14.22:461][303]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.14.23:124][327]LogEditorViewport: Clicking Background
+[2017.02.05-12.14.31:446][668]LogEditorViewport: Clicking Background
+[2017.02.05-12.14.54:569][750]LogEditorViewport: Clicking Background
+[2017.02.05-12.15.05:859][263]LogEditorViewport: Clicking Background
+[2017.02.05-12.15.21:572][ 56]LogEditorViewport: Clicking Background
+[2017.02.05-12.15.22:611][102]LogSavePackage: Save=33.69ms
+[2017.02.05-12.15.22:611][102]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01BA3291DA4DC33C0370BB7FB89BCA78DE.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-12.15.22:613][102]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-12.15.30:685][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.05-12.15.30:692][496]PIE: New page: PIEセッション: stage01 (2017/02/06 6:15:30)
+[2017.02.05-12.15.30:704][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_stage01
+[2017.02.05-12.15.30:722][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017798s)
+[2017.02.05-12.15.30:722][496]LogAIModule: Creating AISystem for world stage01
+[2017.02.05-12.15.30:723][496]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2017.02.05-12.15.30:723][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/stage01.stage01 to /Game/Maps/UEDPIE_0_stage01.stage01 (0.030417s)
+[2017.02.05-12.15.30:746][496]LogInit: XAudio2 using 'スピーカー (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.05-12.15.30:761][496]LogInit: FAudioDevice initialized.
+[2017.02.05-12.15.30:997][496]LogLoad: Game class is 'GameModeBase'
+[2017.02.05-12.15.31:043][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_stage01.stage01 up for play (max tick rate 60) at 2017.02.05-21.15.31
+[2017.02.05-12.15.31:044][496]LogWorld: Bringing up level for play took: 0.001100
+[2017.02.05-12.15.31:146][496]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.02.05-12.15.31:154][496]PIE: 情報 /Game/Maps/UEDPIE_0_stage01 0.178のプレイ イン エディタの開始時間
+[2017.02.05-12.15.31:196][496]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:27712).
+[2017.02.05-12.16.09:398][218]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.05-12.16.12:933][363]LogEditorViewport: Clicking Background
+[2017.02.05-12.16.46:526][905]LogEditorViewport: Clicking Background
+[2017.02.05-12.16.53:924][219]LogTemp: Repeting last play command: 新規エディタウィンドウ (PIE)
+[2017.02.05-12.16.53:934][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.05-12.16.53:934][219]PIE: New page: PIEセッション: stage01 (2017/02/06 6:16:53)
+[2017.02.05-12.16.53:934][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_stage01
+[2017.02.05-12.16.53:937][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2017.02.05-12.16.53:938][219]LogAIModule: Creating AISystem for world stage01
+[2017.02.05-12.16.53:938][219]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2017.02.05-12.16.53:939][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/stage01.stage01 to /Game/Maps/UEDPIE_0_stage01.stage01 (0.004507s)
+[2017.02.05-12.16.53:966][219]LogInit: XAudio2 using 'スピーカー (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.05-12.16.53:983][219]LogInit: FAudioDevice initialized.
+[2017.02.05-12.16.54:109][219]LogLoad: Game class is 'GameModeBase'
+[2017.02.05-12.16.54:111][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_stage01.stage01 up for play (max tick rate 60) at 2017.02.05-21.16.54
+[2017.02.05-12.16.54:112][219]LogWorld: Bringing up level for play took: 0.001113
+[2017.02.05-12.16.54:118][219]PIE: 情報 /Game/Maps/UEDPIE_0_stage01 1.141のプレイ イン エディタの開始時間
+[2017.02.05-12.16.57:990][348]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.02.05-12.17.08:928][857]LogTemp: Repeting last play command: 新規エディタウィンドウ (PIE)
+[2017.02.05-12.17.08:940][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.05-12.17.08:940][857]PIE: New page: PIEセッション: stage01 (2017/02/06 6:17:08)
+[2017.02.05-12.17.08:940][857]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_stage01
+[2017.02.05-12.17.08:944][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003156s)
+[2017.02.05-12.17.08:944][857]LogAIModule: Creating AISystem for world stage01
+[2017.02.05-12.17.08:944][857]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2017.02.05-12.17.08:945][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/stage01.stage01 to /Game/Maps/UEDPIE_0_stage01.stage01 (0.004217s)
+[2017.02.05-12.17.08:964][857]LogInit: XAudio2 using 'スピーカー (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.05-12.17.08:979][857]LogInit: FAudioDevice initialized.
+[2017.02.05-12.17.09:101][857]LogLoad: Game class is 'GameModeBase'
+[2017.02.05-12.17.09:103][857]LogWorld: Bringing World /Game/Maps/UEDPIE_0_stage01.stage01 up for play (max tick rate 60) at 2017.02.05-21.17.09
+[2017.02.05-12.17.09:103][857]LogWorld: Bringing up level for play took: 0.001017
+[2017.02.05-12.17.09:148][857]PIE: 情報 /Game/Maps/UEDPIE_0_stage01 0.17のプレイ イン エディタの開始時間
+[2017.02.05-12.17.12:859][988]LogSavePackage: Save=21.62ms
+[2017.02.05-12.17.12:859][988]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage012E740A454AC3EEFC913618AA94186636.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-12.17.12:861][988]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-12.17.52:819][663]LogEditorViewport: Clicking Background
+[2017.02.05-12.17.53:548][697]LogEditorViewport: Clicking Background
+[2017.02.05-12.18.02:887][142]LogEditorViewport: Clicking Background
+[2017.02.05-12.18.42:387][585]LogEditorViewport: Clicking Background
+[2017.02.05-12.18.45:816][742]Cmd: TRANSACTION UNDO
+[2017.02.05-12.18.45:816][742]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-12.18.48:051][847]Cmd: TRANSACTION UNDO
+[2017.02.05-12.18.48:051][847]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-12.18.48:073][847]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground2.BrushComponent0) Component already registered.
+[2017.02.05-12.18.48:074][847]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground21.BrushComponent0) Component already registered.
+[2017.02.05-12.18.48:076][847]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground24.BrushComponent0) Component already registered.
+[2017.02.05-12.18.48:077][847]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground15.BrushComponent0) Component already registered.
+[2017.02.05-12.19.24:743][315]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.02.05-12.19.30:020][492]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.02.05-12.19.33:029][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.19.34:856][659]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.19.37:889][774]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.19.38:901][816]Cmd: TRANSACTION UNDO
+[2017.02.05-12.19.38:901][816]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-12.19.46:021][ 78]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.02.05-12.19.50:530][271]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.02.05-12.19.51:497][310]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.02.05-12.19.53:514][400]Cmd: DELETE
+[2017.02.05-12.19.53:515][400]Cmd: ACTOR DELETE
+[2017.02.05-12.19.53:515][400]LogEditorActor: Deleted Actor: PlayerStart
+[2017.02.05-12.19.53:531][400]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.02.05-12.19.55:101][474]LogTemp: Repeting last play command: 新規エディタウィンドウ (PIE)
+[2017.02.05-12.19.55:116][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.05-12.19.55:116][474]PIE: New page: PIEセッション: stage01 (2017/02/06 6:19:55)
+[2017.02.05-12.19.55:116][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_stage01
+[2017.02.05-12.19.55:130][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013672s)
+[2017.02.05-12.19.55:131][474]LogAIModule: Creating AISystem for world stage01
+[2017.02.05-12.19.55:131][474]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2017.02.05-12.19.55:132][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/stage01.stage01 to /Game/Maps/UEDPIE_0_stage01.stage01 (0.015214s)
+[2017.02.05-12.19.55:151][474]LogInit: XAudio2 using 'スピーカー (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.05-12.19.55:167][474]LogInit: FAudioDevice initialized.
+[2017.02.05-12.19.55:287][474]LogLoad: Game class is 'GameModeBase'
+[2017.02.05-12.19.55:290][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_stage01.stage01 up for play (max tick rate 60) at 2017.02.05-21.19.55
+[2017.02.05-12.19.55:290][474]LogWorld: Bringing up level for play took: 0.001455
+[2017.02.05-12.19.55:298][474]PIE: 情報 /Game/Maps/UEDPIE_0_stage01 0.318のプレイ イン エディタの開始時間
+[2017.02.05-12.20.03:398][762]LogSavePackage: Save=88.17ms
+[2017.02.05-12.20.03:398][762]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01B2C50EB94749110DF192D38BDD9C8B7B.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-12.20.03:458][762]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-12.45.27:707][440]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/take/Downloads/p_pt_0153_ll_pt_01532.jpg)
+[2017.02.05-12.45.27:983][440]LogTexture:Display: テクスチャをビルド中: p_pt_0153_ll_pt_01532 (AutoDXT)
+[2017.02.05-12.45.32:409][495]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/take/Downloads/p_pt_0153_ll_pt_01533.jpg)
+[2017.02.05-12.45.32:421][495]LogTexture:Display: テクスチャをビルド中: p_pt_0153_ll_pt_01533 (AutoDXT)
+[2017.02.05-12.45.36:271][565]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/take/Downloads/p_pt_0153_ll_pt_01534.jpg)
+[2017.02.05-12.45.36:282][565]LogTexture:Display: テクスチャをビルド中: p_pt_0153_ll_pt_01534 (AutoDXT)
+[2017.02.05-12.47.09:106][256]LogSavePackage: Save=100.35ms
+[2017.02.05-12.47.09:106][256]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Sand51170D6448BB48B150D2C98E370AE352.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/Sand.uasset'
+[2017.02.05-12.47.09:108][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/Sand.uasset
+[2017.02.05-12.47.24:101][531]LogSavePackage: Save=42.67ms
+[2017.02.05-12.47.24:101][531]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/GrassB91798AD472F4214E8C91499B8C64C9B.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/Grass.uasset'
+[2017.02.05-12.47.24:102][531]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/Grass.uasset
+[2017.02.05-12.47.51:261][169]LogSavePackage: Save=44.14ms
+[2017.02.05-12.47.51:261][169]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Water793E428D47AE83D677C7FC9B9DF2BA2E.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/Water.uasset'
+[2017.02.05-12.47.51:263][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/Water.uasset
+[2017.02.05-12.48.29:778][772]LogSavePackage: Save=1.58ms
+[2017.02.05-12.48.29:778][772]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/p_pt_0153_ll_pt_0153294DCFF464978A52BEFA61398F6DFFB36.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/p_pt_0153_ll_pt_01532.uasset'
+[2017.02.05-12.48.29:780][772]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/p_pt_0153_ll_pt_01532.uasset
+[2017.02.05-12.48.29:792][772]LogSavePackage: Save=1.33ms
+[2017.02.05-12.48.29:792][772]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/p_pt_0153_ll_pt_0153300FE59DB41D52E01208627A3FBD31514.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/p_pt_0153_ll_pt_01533.uasset'
+[2017.02.05-12.48.29:794][772]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/p_pt_0153_ll_pt_01533.uasset
+[2017.02.05-12.48.29:804][772]LogSavePackage: Save=1.19ms
+[2017.02.05-12.48.29:804][772]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/p_pt_0153_ll_pt_0153422E5432444264BC703C042817D1F763C.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/p_pt_0153_ll_pt_01534.uasset'
+[2017.02.05-12.48.29:806][772]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/p_pt_0153_ll_pt_01534.uasset
+[2017.02.05-12.48.33:810][956]LogSavePackage: Save=90.12ms
+[2017.02.05-12.48.33:810][956]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage014C0F26C44975007FD22A4AA26B9B9907.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-12.48.33:811][956]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-12.49.22:333][197]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2017.02.05-12.49.32:082][536]LogSavePackage: Save=20.85ms
+[2017.02.05-12.49.32:082][536]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/GrassMat55C4D88B4388F8FA23BFB99A93E6B205.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/GrassMat.uasset'
+[2017.02.05-12.49.32:085][536]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/GrassMat.uasset
+[2017.02.05-12.49.39:297][848]LogMaterial: Missing cached shader map for material SandMat, compiling. 
+[2017.02.05-12.49.45:834][117]LogMaterial: Missing cached shader map for material WaterMat, compiling. 
+[2017.02.05-12.49.49:501][184]LogSavePackage: Save=18.16ms
+[2017.02.05-12.49.49:501][184]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/SandMatA137BADB43569EFBF74B9CAAC19BCDEC.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/SandMat.uasset'
+[2017.02.05-12.49.49:505][184]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/SandMat.uasset
+[2017.02.05-12.49.49:579][184]LogSavePackage: Save=20.59ms
+[2017.02.05-12.49.49:579][184]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/WaterMatBC03F6844F531901FB751A9E36B0C278.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/WaterMat.uasset'
+[2017.02.05-12.49.49:581][184]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Texture/WaterMat.uasset
+[2017.02.05-12.50.09:853][810]LogSavePackage: Save=18.12ms
+[2017.02.05-12.50.09:853][810]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/GrassMatAD32F2CF43B5B639E22FD4ABDC3A9D5E.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Materials/GrassMat.uasset'
+[2017.02.05-12.50.09:855][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Materials/GrassMat.uasset
+[2017.02.05-12.50.09:915][810]LogSavePackage: Save=16.56ms
+[2017.02.05-12.50.09:915][810]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/SandMat059171A846F5F6CE925BDFA637D10509.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Materials/SandMat.uasset'
+[2017.02.05-12.50.09:916][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Materials/SandMat.uasset
+[2017.02.05-12.50.09:975][810]LogSavePackage: Save=16.04ms
+[2017.02.05-12.50.09:975][810]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/WaterMatDF79AAE24EAEC3CD3E282CBFDCE495F8.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Materials/WaterMat.uasset'
+[2017.02.05-12.50.09:977][810]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Architecture/Materials/WaterMat.uasset
+[2017.02.05-12.50.44:798][178]Cmd: EDCALLBACK SURFPROPS
+[2017.02.05-12.50.56:648][740]LogEditorViewport: Clicking Background
+[2017.02.05-12.50.57:346][767]Cmd: EDCALLBACK SURFPROPS
+[2017.02.05-12.52.29:139][462]LogEditorViewport: Clicking Background
+[2017.02.05-12.52.37:142][774]LogEditorViewport: Clicking Background
+[2017.02.05-12.52.51:723][424]Cmd: EDIT COPY
+[2017.02.05-12.52.51:956][432]Cmd: EDIT PASTE
+[2017.02.05-12.52.58:736][678]Cmd: TRANSACTION UNDO
+[2017.02.05-12.52.58:736][678]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-12.52.58:767][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground11.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:768][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground20.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:768][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground21.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:770][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground50.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:771][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground6.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:772][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground2.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:772][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground3.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:773][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground40.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:774][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground35.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:775][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground31.BrushComponent0) Component already registered.
+[2017.02.05-12.52.58:775][678]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground32.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:289][691]Cmd: TRANSACTION UNDO
+[2017.02.05-12.52.59:289][691]LogEditorTransaction: Undo 貼り付け
+[2017.02.05-12.52.59:320][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground4.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:321][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground17.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:321][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground12.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:322][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground13.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:323][691]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_105' invalid (496 verts, 0 indices).
+[2017.02.05-12.52.59:340][691]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_106' invalid (496 verts, 0 indices).
+[2017.02.05-12.52.59:340][691]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_107' invalid (496 verts, 0 indices).
+[2017.02.05-12.52.59:340][691]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_108' invalid (496 verts, 0 indices).
+[2017.02.05-12.52.59:340][691]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_109' invalid (496 verts, 0 indices).
+[2017.02.05-12.52.59:341][691]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_110' invalid (496 verts, 0 indices).
+[2017.02.05-12.52.59:343][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground47.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:344][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground22.BrushComponent0) Component already registered.
+[2017.02.05-12.52.59:344][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground30.BrushComponent0) Component already registered.
+[2017.02.05-12.53.07:825][ 43]LogEditorViewport: Clicking Background
+[2017.02.05-12.54.24:636][127]LogEditorViewport: Clicking Background
+[2017.02.05-12.54.52:542][356]LogEditorViewport: Clicking Background
+[2017.02.05-12.55.20:773][422]Cmd: TRANSACTION UNDO
+[2017.02.05-12.55.20:773][422]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-12.55.20:808][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground21.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:808][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground22.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:808][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground27.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:809][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground7.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:809][422]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_129' invalid (568 verts, 0 indices).
+[2017.02.05-12.55.20:809][422]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_130' invalid (568 verts, 0 indices).
+[2017.02.05-12.55.20:809][422]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_131' invalid (568 verts, 0 indices).
+[2017.02.05-12.55.20:809][422]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_132' invalid (568 verts, 0 indices).
+[2017.02.05-12.55.20:810][422]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_133' invalid (568 verts, 0 indices).
+[2017.02.05-12.55.20:810][422]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_134' invalid (568 verts, 0 indices).
+[2017.02.05-12.55.20:812][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground12.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:812][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground6.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:812][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground49.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:813][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground44.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:814][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground32.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:814][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground33.BrushComponent0) Component already registered.
+[2017.02.05-12.55.20:816][422]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground38.BrushComponent0) Component already registered.
+[2017.02.05-12.55.49:172][499]LogEditorViewport: Clicking Background
+[2017.02.05-12.55.57:806][799]LogTexture:Display: テクスチャをビルド中: T_Brick_Cut_Stone_D (AutoDXT)
+[2017.02.05-12.55.58:865][799]LogTexture:Display: テクスチャをビルド中: T_Brick_Cut_Stone_N (BC5)
+[2017.02.05-12.56.11:515][334]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_Beveled_D (AutoDXT)
+[2017.02.05-12.56.12:568][334]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_Beveled_M (AutoDXT)
+[2017.02.05-12.56.13:640][334]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_Beveled_N (BC5)
+[2017.02.05-12.56.26:727][769]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_New_D (AutoDXT)
+[2017.02.05-12.56.27:709][769]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_New_N (BC5)
+[2017.02.05-12.56.27:949][769]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_New_M (AutoDXT)
+[2017.02.05-12.56.31:863][861]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_Old_D (AutoDXT)
+[2017.02.05-12.56.32:904][861]LogTexture:Display: テクスチャをビルド中: T_Brick_Clay_Old_N (BC5)
+[2017.02.05-12.56.39:266][ 69]LogTexture:Display: テクスチャをビルド中: T_CobbleStone_Pebble_D (AutoDXT)
+[2017.02.05-12.56.40:310][ 69]LogTexture:Display: テクスチャをビルド中: T_CobbleStone_Pebble_N (BC5)
+[2017.02.05-12.56.44:574][208]LogTexture:Display: テクスチャをビルド中: T_CobbleStone_Rough_D (AutoDXT)
+[2017.02.05-12.56.44:889][208]LogTexture:Display: テクスチャをビルド中: T_CobbleStone_Rough_N (AutoDXT)
+[2017.02.05-12.56.50:756][412]LogTexture:Display: テクスチャをビルド中: T_Concrete_Grime_D (AutoDXT)
+[2017.02.05-12.56.51:806][412]LogTexture:Display: テクスチャをビルド中: T_Metal_Rust_N (BC5)
+[2017.02.05-12.57.15:056][428]LogTexture:Display: テクスチャをビルド中: T_Rock_Basalt_N (BC5)
+[2017.02.05-12.57.15:295][428]LogTexture:Display: テクスチャをビルド中: T_Rock_Basalt_D (AutoDXT)
+[2017.02.05-12.57.44:987][591]LogEditorViewport: Clicking Background
+[2017.02.05-12.57.59:306][203]LogEditorViewport: Clicking Background
+[2017.02.05-12.58.18:238][972]LogEditorViewport: Clicking Background
+[2017.02.05-12.58.24:901][253]LogEditorViewport: Clicking Background
+[2017.02.05-12.58.42:866][ 25]Cmd: ACTOR SELECT ALL
+[2017.02.05-12.58.53:814][405]LogEditorViewport: Clicking Background
+[2017.02.05-12.58.57:098][540]Cmd: EDCALLBACK SURFPROPS
+[2017.02.05-12.59.02:081][719]Cmd: EDCALLBACK SURFPROPS
+[2017.02.05-12.59.17:969][179]LogEditorViewport: Clicking Background
+[2017.02.05-12.59.46:912][400]LogSavePackage: Save=100.35ms
+[2017.02.05-12.59.46:912][400]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01_Auto2C247A4D14FD58F05AD3C7DA434124D3E.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Autosaves/Game/Maps/stage01_Auto2.umap'
+[2017.02.05-12.59.46:913][400]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Autosaves/Game/Maps/stage01_Auto2.umap
+[2017.02.05-12.59.46:915][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/stage01' took 0.129
+[2017.02.05-12.59.46:915][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.129
+[2017.02.05-13.00.10:754][374]Cmd: TRANSACTION UNDO
+[2017.02.05-13.00.10:754][374]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-13.00.10:786][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground19.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:787][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground17.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:787][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground26.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:787][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground28.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:788][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground27.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:789][374]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_141' invalid (616 verts, 0 indices).
+[2017.02.05-13.00.10:789][374]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_142' invalid (616 verts, 0 indices).
+[2017.02.05-13.00.10:789][374]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_143' invalid (616 verts, 0 indices).
+[2017.02.05-13.00.10:789][374]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_144' invalid (616 verts, 0 indices).
+[2017.02.05-13.00.10:789][374]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_145' invalid (616 verts, 0 indices).
+[2017.02.05-13.00.10:789][374]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/Maps/stage01.stage01:PersistentLevel.ModelComponent_146' invalid (616 verts, 0 indices).
+[2017.02.05-13.00.10:791][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground11.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:792][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground9.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:792][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground49.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:793][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground47.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:795][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground30.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:795][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground42.BrushComponent0) Component already registered.
+[2017.02.05-13.00.10:796][374]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/stage01.stage01:PersistentLevel.Ground40.BrushComponent0) Component already registered.
+[2017.02.05-13.00.19:220][730]LogTexture:Display: テクスチャをビルド中: T_RockMesh_N (BC5)
+[2017.02.05-13.00.19:454][730]LogTexture:Display: テクスチャをビルド中: T_RockMesh_M (DXT1)
+[2017.02.05-13.00.25:908][939]LogEditorViewport: Clicking Background
+[2017.02.05-13.00.27:795][ 15]LogSavePackage: Save=118.68ms
+[2017.02.05-13.00.27:795][ 15]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01D0302D174675152CCF4FE0B795F0BEF1.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.00.27:798][ 15]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.00.49:246][910]LogEditorViewport: Clicking Background
+[2017.02.05-13.00.50:240][945]LogSavePackage: Save=91.98ms
+[2017.02.05-13.00.50:240][945]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01B14C626746FE7A16081F038DA588C2EE.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.00.50:242][945]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.01.11:895][862]LogEditorViewport: Clicking Background
+[2017.02.05-13.01.28:236][558]LogEditorViewport: Clicking Background
+[2017.02.05-13.01.29:089][586]LogSavePackage: Save=95.26ms
+[2017.02.05-13.01.29:089][586]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage0168F0E6B34C8ED406872CA880E7523550.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.01.29:101][586]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.01.43:326][160]LogSavePackage: Save=92.56ms
+[2017.02.05-13.01.43:326][160]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01C0A3B0CC49A35531FAF174B0148EE9E6.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.01.43:328][160]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.03.00:474][286]LogEditorViewport: Clicking Background
+[2017.02.05-13.03.05:564][472]Cmd: EDCALLBACK SURFPROPS
+[2017.02.05-13.03.07:121][530]LogEditorViewport: Clicking on Actor (double click): Brush (Ground58)
+[2017.02.05-13.04.48:683][254]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.02.05-13.04.50:483][254]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.02.05-13.04.50:504][254]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.02.05-13.04.50:594][254]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.02.05-13.04.50:604][254]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.02.05-13.04.51:987][256]MaterialEditorStats: 情報 Base pass shader with static lighting: 65 instructions
+[2017.02.05-13.04.51:987][256]MaterialEditorStats: 情報 Base pass shader with only dynamic lighting: 39 instructions
+[2017.02.05-13.04.51:987][256]MaterialEditorStats: 情報 Vertex shader: 31 instructions
+[2017.02.05-13.04.51:987][256]MaterialEditorStats: 情報 Texture samplers: 4/16
+[2017.02.05-13.20.46:219][615]LogSavePackage: Save=159.47ms
+[2017.02.05-13.20.46:219][615]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01CEC18AFA488C749F54AE7BAB449DB0C8.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.20.46:220][615]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.27.23:118][375]Cmd: MAP LOAD FILE="../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.05-13.27.23:199][375]LightingResults: New page: ライティングのビルド
+[2017.02.05-13.27.23:201][375]LoadErrors: New page: マップをロード中: stage01.umap
+[2017.02.05-13.27.23:207][375]MapCheck: New page: マップをチェック
+[2017.02.05-13.27.23:207][375]LightingResults: New page: <何も選択されていません>
+[2017.02.05-13.27.23:284][375]LogAIModule: Creating AISystem for world stage01
+[2017.02.05-13.27.23:376][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.05-13.27.23:393][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.05-13.27.29:160][375]MapCheck: 情報 マップチェックが完了: 0 エラー、 0 警告、完了に 5,767.92ミリ秒かかりました。
+[2017.02.05-13.27.29:160][375]LogFileHelpers: Loading map 'stage01' took 6.078
+[2017.02.05-13.27.29:179][375]LogEditorViewport: Clicking on Actor (LMB): Brush (Ground59)
+[2017.02.05-13.27.29:217][375]LogEditorViewport: Clicking Background
+[2017.02.05-13.29.37:548][ 13]LogEditorViewport: Clicking Background
+[2017.02.05-13.29.38:305][ 38]LogEditorViewport: Clicking Background
+[2017.02.05-13.29.38:801][ 55]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume)
+[2017.02.05-13.29.39:309][ 68]LogEditorViewport: Clicking Background
+[2017.02.05-13.29.41:870][173]LogEditorViewport: Clicking Background
+[2017.02.05-13.29.42:396][194]LogEditorViewport: Clicking Background
+[2017.02.05-13.29.43:090][226]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume)
+[2017.02.05-13.32.16:563][ 84]LogEditorViewport: Clicking Background
+[2017.02.05-13.32.17:937][126]LogSavePackage: Save=121.77ms
+[2017.02.05-13.32.17:937][126]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage01E35C3231476123BD9E7670A28FD7F132.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.32.17:953][126]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.32.23:901][374]LogEditorViewport: Clicking Background
+[2017.02.05-13.32.59:646][808]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.02.05-13.32.59:690][808]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.02.05-13.33.01:176][868]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.02.05-13.33.01:192][868]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.02.05-13.33.01:916][895]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.02.05-13.33.01:934][895]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.02.05-13.33.03:605][958]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.02.05-13.33.03:625][958]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.02.05-13.33.04:427][989]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.02.05-13.33.04:443][989]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.02.05-13.33.23:384][684]LogEditorViewport: Clicking Background
+[2017.02.05-13.33.33:173][ 68]LogEditorViewport: Clicking Background
+[2017.02.05-13.34.23:936][855]LogEditorViewport: Clicking Background
+[2017.02.05-13.34.47:767][642]LogEditorViewport: Clicking Background
+[2017.02.05-13.35.40:144][320]LogEditorViewport: Clicking Background
+[2017.02.05-13.35.48:811][638]LogEditorViewport: Clicking Background
+[2017.02.05-13.35.52:781][802]LogEditorViewport: Clicking Background
+[2017.02.05-13.36.24:127][ 48]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.05-13.37.59:976][245]Cmd: TRANSACTION UNDO
+[2017.02.05-13.37.59:976][245]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-13.38.03:543][391]LogEditorViewport: Clicking Background
+[2017.02.05-13.38.23:418][104]LogEditorViewport: Clicking Background
+[2017.02.05-13.38.26:454][233]Cmd: TRANSACTION UNDO
+[2017.02.05-13.38.26:454][233]LogEditorTransaction: Undo 背景をクリック
+[2017.02.05-13.38.28:424][308]Cmd: TRANSACTION UNDO
+[2017.02.05-13.38.28:424][308]LogEditorTransaction: Undo アクタ を移動
+[2017.02.05-13.38.31:853][462]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.02.05-13.38.41:096][763]LogEditorViewport: Clicking Background
+[2017.02.05-13.38.47:045][ 20]LogEditorViewport: Clicking Background
+[2017.02.05-13.38.49:850][127]LogEditorViewport: Clicking Background
+[2017.02.05-13.38.51:781][191]LogSavePackage: Save=152.53ms
+[2017.02.05-13.38.51:781][191]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage017D5DC053492646FD68479AAB7C128F0B.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.38.51:784][191]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.41.43:632][ 90]LogEditorViewport: Clicking Background
+[2017.02.05-13.41.44:810][134]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2017.02.05-13.43.06:555][195]LogEditorViewport: Clicking Background
+[2017.02.05-13.44.03:669][585]LogEditorViewport: Clicking Background
+[2017.02.05-13.44.46:681][391]LogSavePackage: Save=117.98ms
+[2017.02.05-13.44.46:681][391]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage018A605D2E42ACCC6FEE52428B17E01E87.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.44.46:683][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.44.47:607][418]LogTemp: Repeting last play command: 新規エディタウィンドウ (PIE)
+[2017.02.05-13.44.47:625][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.05-13.44.47:626][418]PIE: New page: PIEセッション: stage01 (2017/02/06 7:44:47)
+[2017.02.05-13.44.47:626][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_stage01
+[2017.02.05-13.44.47:643][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017541s)
+[2017.02.05-13.44.47:644][418]LogAIModule: Creating AISystem for world stage01
+[2017.02.05-13.44.47:644][418]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2017.02.05-13.44.47:644][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/stage01.stage01 to /Game/Maps/UEDPIE_0_stage01.stage01 (0.018648s)
+[2017.02.05-13.44.47:668][418]LogInit: XAudio2 using 'スピーカー (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.05-13.44.47:683][418]LogInit: FAudioDevice initialized.
+[2017.02.05-13.44.47:793][418]LogLoad: Game class is 'GameModeBase'
+[2017.02.05-13.44.47:796][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_stage01.stage01 up for play (max tick rate 60) at 2017.02.05-22.44.47
+[2017.02.05-13.44.47:796][418]LogWorld: Bringing up level for play took: 0.001759
+[2017.02.05-13.44.47:833][418]PIE: 情報 /Game/Maps/UEDPIE_0_stage01 0.748のプレイ イン エディタの開始時間
+[2017.02.05-13.45.51:050][ 26]LogEditorViewport: Clicking on Actor (LMB): Brush (Ground55)
+[2017.02.05-13.45.51:522][ 35]LogSavePackage: Save=106.12ms
+[2017.02.05-13.45.51:522][ 35]LogSavePackage: Moving '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/stage014E14F5734027A3735731E5ACCF277B5A.tmp' to '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap'
+[2017.02.05-13.45.51:523][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Maps/stage01.umap
+[2017.02.05-13.45.53:779][ 98]Cmd: QUIT_EDITOR
+[2017.02.05-13.45.54:708][ 98]LogExit: Preparing to exit.
+[2017.02.05-13.45.56:047][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/' was aborted.
+[2017.02.05-13.45.56:139][ 98]LogExit: Editor shut down
+[2017.02.05-13.45.56:139][ 98]LogExit: Transaction tracking system shut down
+[2017.02.05-13.45.58:600][ 98]LogObj: Freed 0b from 0 cluster array pools.
+[2017.02.05-13.45.58:600][ 98]LogExit: Object subsystem successfully closed.
+[2017.02.05-13.45.59:075][ 98]LogD3D11RHI: Shutdown
+[2017.02.05-13.45.59:087][ 98]LogD3D11RHI: CleanupD3DDevice
+[2017.02.05-13.45.59:514][ 98]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.02.05-13.46.01:263][ 98]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.02.05-13.46.01:263][ 98]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B189B06B5-460D-7C3E-7292-3689C34E986C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=bcbfe6424b95cab39b8df8b663ded9e4%7C7f5eae19525c4c41a649d38eef51fc30%7Cb0f6397e-e3dc-471c-8836-7ef15a43259a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.02.05-13.46.01:427][ 98]LogModuleManager: Shutting down and abandoning module MaterialEditor (244)
+[2017.02.05-13.46.01:434][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (243)
+[2017.02.05-13.46.01:434][ 98]LogModuleManager: Shutting down and abandoning module NewLevelDialog (242)
+[2017.02.05-13.46.01:434][ 98]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.02.05-13.46.01:467][ 98]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.02.05-13.46.01:473][ 98]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.02.05-13.46.01:473][ 98]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.02.05-13.46.01:473][ 98]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.02.05-13.46.01:533][ 98]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.14/FeaturePacks/' was aborted.
+[2017.02.05-13.46.01:534][ 98]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.02.05-13.46.01:534][ 98]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.02.05-13.46.01:534][ 98]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.02.05-13.46.01:540][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Collections/' was aborted.
+[2017.02.05-13.46.01:540][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/Developers/take/Collections/' was aborted.
+[2017.02.05-13.46.01:540][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Saved/Collections/' was aborted.
+[2017.02.05-13.46.01:540][ 98]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.02.05-13.46.01:638][ 98]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.02.05-13.46.01:648][ 98]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.02.05-13.46.01:698][ 98]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.02.05-13.46.01:698][ 98]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.02.05-13.46.01:698][ 98]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.02.05-13.46.01:698][ 98]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.02.05-13.46.01:698][ 98]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.02.05-13.46.01:698][ 98]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.02.05-13.46.01:704][ 98]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.02.05-13.46.01:717][ 98]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.02.05-13.46.01:739][ 98]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.02.05-13.46.01:750][ 98]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.02.05-13.46.01:756][ 98]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.02.05-13.46.01:799][ 98]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.02.05-13.46.01:898][ 98]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.02.05-13.46.01:898][ 98]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.02.05-13.46.01:898][ 98]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.02.05-13.46.01:898][ 98]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.02.05-13.46.01:898][ 98]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.02.05-13.46.01:898][ 98]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.02.05-13.46.02:009][ 98]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.02.05-13.46.02:026][ 98]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.02.05-13.46.02:073][ 98]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.02.05-13.46.02:073][ 98]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.02.05-13.46.02:100][ 98]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.02.05-13.46.02:100][ 98]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.02.05-13.46.02:445][ 98]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.02.05-13.46.02:465][ 98]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.02.05-13.46.02:465][ 98]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.02.05-13.46.02:465][ 98]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.02.05-13.46.02:469][ 98]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.02.05-13.46.02:575][ 98]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.02.05-13.46.02:600][ 98]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.02.05-13.46.02:621][ 98]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.02.05-13.46.02:698][ 98]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.02.05-13.46.02:699][ 98]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.02.05-13.46.02:720][ 98]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.02.05-13.46.02:753][ 98]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.02.05-13.46.02:753][ 98]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.02.05-13.46.02:768][ 98]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.02.05-13.46.02:778][ 98]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.02.05-13.46.02:778][ 98]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.02.05-13.46.02:788][ 98]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.02.05-13.46.02:799][ 98]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.02.05-13.46.02:799][ 98]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.02.05-13.46.02:799][ 98]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.02.05-13.46.02:799][ 98]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.02.05-13.46.02:869][ 98]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.02.05-13.46.02:914][ 98]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.02.05-13.46.02:941][ 98]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.02.05-13.46.02:956][ 98]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.02.05-13.46.02:956][ 98]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.02.05-13.46.03:015][ 98]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.02.05-13.46.03:040][ 98]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.02.05-13.46.03:080][ 98]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.02.05-13.46.03:163][ 98]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.02.05-13.46.03:163][ 98]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.02.05-13.46.03:205][ 98]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.02.05-13.46.03:205][ 98]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.02.05-13.46.03:205][ 98]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.02.05-13.46.03:252][ 98]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.02.05-13.46.03:267][ 98]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.02.05-13.46.03:267][ 98]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.02.05-13.46.03:269][ 98]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.02.05-13.46.03:291][ 98]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.02.05-13.46.03:315][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.02.05-13.46.03:354][ 98]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.02.05-13.46.03:442][ 98]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.02.05-13.46.03:456][ 98]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.02.05-13.46.03:489][ 98]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.02.05-13.46.03:512][ 98]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.02.05-13.46.03:512][ 98]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.02.05-13.46.03:772][ 98]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.02.05-13.46.03:813][ 98]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.02.05-13.46.03:813][ 98]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.02.05-13.46.03:813][ 98]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.02.05-13.46.03:813][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.02.05-13.46.03:819][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.02.05-13.46.03:834][ 98]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.02.05-13.46.03:834][ 98]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.02.05-13.46.03:834][ 98]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.02.05-13.46.03:834][ 98]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.02.05-13.46.03:834][ 98]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.02.05-13.46.03:842][ 98]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.02.05-13.46.03:842][ 98]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.02.05-13.46.03:884][ 98]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.02.05-13.46.03:884][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.02.05-13.46.03:884][ 98]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.02.05-13.46.03:884][ 98]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.02.05-13.46.03:889][ 98]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.02.05-13.46.03:892][ 98]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.02.05-13.46.03:892][ 98]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.02.05-13.46.03:892][ 98]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.02.05-13.46.03:892][ 98]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.02.05-13.46.03:915][ 98]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.02.05-13.46.03:937][ 98]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.02.05-13.46.03:940][ 98]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.02.05-13.46.03:940][ 98]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.02.05-13.46.03:949][ 98]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.02.05-13.46.03:949][ 98]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.02.05-13.46.03:961][ 98]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.02.05-13.46.03:977][ 98]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.02.05-13.46.03:987][ 98]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.02.05-13.46.04:001][ 98]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.02.05-13.46.04:001][ 98]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.02.05-13.46.04:007][ 98]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.02.05-13.46.04:007][ 98]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.02.05-13.46.04:007][ 98]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.02.05-13.46.04:016][ 98]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.02.05-13.46.04:017][ 98]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.02.05-13.46.04:017][ 98]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.02.05-13.46.04:025][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.02.05-13.46.04:026][ 98]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.02.05-13.46.04:038][ 98]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.02.05-13.46.04:138][ 98]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.02.05-13.46.04:271][ 98]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.02.05-13.46.04:271][ 98]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.02.05-13.46.04:298][ 98]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.02.05-13.46.04:303][ 98]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.02.05-13.46.04:328][ 98]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.02.05-13.46.04:328][ 98]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.02.05-13.46.04:334][ 98]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.02.05-13.46.04:334][ 98]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.02.05-13.46.04:334][ 98]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.02.05-13.46.04:334][ 98]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.02.05-13.46.04:351][ 98]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.02.05-13.46.04:365][ 98]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.02.05-13.46.04:393][ 98]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.02.05-13.46.04:417][ 98]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.02.05-13.46.04:417][ 98]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.02.05-13.46.04:417][ 98]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.02.05-13.46.04:439][ 98]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.02.05-13.46.04:480][ 98]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.02.05-13.46.04:500][ 98]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.02.05-13.46.04:534][ 98]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.02.05-13.46.04:534][ 98]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.02.05-13.46.04:536][ 98]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.02.05-13.46.04:536][ 98]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.02.05-13.46.04:536][ 98]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.02.05-13.46.04:536][ 98]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.02.05-13.46.04:536][ 98]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.02.05-13.46.04:536][ 98]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.02.05-13.46.04:536][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.02.05-13.46.04:537][ 98]LogDirectoryWatcher: A directory notification for '../../../../../../Users/take/Desktop/KawamuraTeam/trunk/佐藤/TowerDefense/TowerDefense/Content/' was aborted.
+[2017.02.05-13.46.04:537][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.02.05-13.46.04:537][ 98]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.02.05-13.46.04:722][ 98]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.02.05-13.46.04:722][ 98]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.02.05-13.46.04:722][ 98]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.02.05-13.46.04:731][ 98]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.02.05-13.46.04:738][ 98]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.02.05-13.46.04:750][ 98]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.02.05-13.46.04:750][ 98]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.02.05-13.46.04:807][ 98]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.02.05-13.46.04:956][ 98]LogDerivedDataCache: Shutdown
+[2017.02.05-13.46.04:956][ 98]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.02.05-13.46.04:964][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.02.05-13.46.05:073][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.02.05-13.46.05:113][ 98]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.02.05-13.46.05:119][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.02.05-13.46.05:119][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.02.05-13.46.05:134][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.02.05-13.46.05:134][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.02.05-13.46.05:145][ 98]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.02.05-13.46.05:145][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.02.05-13.46.05:145][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.02.05-13.46.05:145][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.02.05-13.46.05:157][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.02.05-13.46.05:165][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.02.05-13.46.05:165][ 98]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.02.05-13.46.05:165][ 98]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.02.05-13.46.05:178][ 98]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.02.05-13.46.05:198][ 98]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.02.05-13.46.05:207][ 98]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.02.05-13.46.05:223][ 98]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.02.05-13.46.05:233][ 98]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.02.05-13.46.05:241][ 98]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.02.05-13.46.05:257][ 98]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.02.05-13.46.05:257][ 98]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.02.05-13.46.05:257][ 98]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.02.05-13.46.05:257][ 98]LogOnline:Display: Unloading online subsystem: NULL
+[2017.02.05-13.46.05:335][ 98]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.02.05-13.46.05:349][ 98]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.02.05-13.46.05:349][ 98]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.02.05-13.46.05:383][ 98]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.02.05-13.46.05:383][ 98]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.02.05-13.46.05:383][ 98]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.02.05-13.46.05:383][ 98]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.02.05-13.46.05:421][ 98]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.02.05-13.46.05:469][ 98]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.02.05-13.46.05:470][ 98]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.02.05-13.46.05:493][ 98]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.02.05-13.46.05:505][ 98]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.02.05-13.46.05:505][ 98]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.02.05-13.46.05:505][ 98]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.02.05-13.46.05:532][ 98]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.02.05-13.46.05:541][ 98]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.02.05-13.46.05:541][ 98]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.02.05-13.46.05:551][ 98]LogExit: Exiting.
+[2017.02.05-13.46.05:609][ 98]Log file closed, 02/05/17 22:46:05
