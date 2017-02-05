@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: cd9b0575e00a83444a68f747f1a2d4c9
+timeCreated: 1458840848
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: etc3_0
+    21300002: etc3_1
+    21300004: etc3_2
+    21300006: etc3_3
+    21300008: etc3_4
+    21300010: etc3_5
+    21300012: etc3_6
+    21300014: etc3_7
+    21300016: etc3_8
+    21300018: etc3_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: etc3_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 429
+        width: 306
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 201}
+        - {x: -153, y: -201}
+        - {x: 153, y: -201}
+        - {x: 153, y: 201}
+    - name: etc3_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 429
+        width: 305
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152.5, y: 201}
+        - {x: -152.5, y: -201}
+        - {x: 152.5, y: -201}
+        - {x: 152.5, y: 201}
+    - name: etc3_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 429
+        width: 309
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154.5, y: 201}
+        - {x: -154.5, y: -201}
+        - {x: 153.5, y: -201}
+        - {x: 153.5, y: 197}
+        - {x: 154.5, y: 197}
+        - {x: 154.5, y: 201}
+    - name: etc3_3
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 429
+        width: 308
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154, y: 201}
+        - {x: -154, y: 197}
+        - {x: -153, y: 196}
+        - {x: -154, y: -23}
+        - {x: -154, y: -201}
+        - {x: 154, y: -201}
+        - {x: 154, y: 201}
+    - name: etc3_4
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 428
+        width: 308
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154, y: 202}
+        - {x: -154, y: -202}
+        - {x: 154, y: -202}
+        - {x: 154, y: 202}
+    - name: etc3_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 306
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 201}
+        - {x: -153, y: -201}
+        - {x: 153, y: -201}
+        - {x: 153, y: 201}
+    - name: etc3_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 19
+        width: 305
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152.5, y: 201}
+        - {x: -152.5, y: -201}
+        - {x: 152.5, y: -201}
+        - {x: 152.5, y: 201}
+    - name: etc3_7
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 19
+        width: 306
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 201}
+        - {x: -153, y: -201}
+        - {x: 153, y: -201}
+        - {x: 153, y: 201}
+    - name: etc3_8
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 19
+        width: 306
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 201}
+        - {x: -153, y: -201}
+        - {x: 153, y: -201}
+        - {x: 153, y: 201}
+    - name: etc3_9
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 19
+        width: 305
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152.5, y: 201}
+        - {x: -152.5, y: -201}
+        - {x: 152.5, y: -201}
+        - {x: 152.5, y: 201}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
